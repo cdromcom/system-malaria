@@ -1,0 +1,16 @@
+# Obsidian per-machine UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# never commit credentials; scripts read them from a .env outside this vault
+.env
+.env.*
+!.env.example

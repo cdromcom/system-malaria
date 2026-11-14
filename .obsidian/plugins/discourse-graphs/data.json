@@ -1,0 +1,116 @@
+{
+  "nodeTypes": [
+    {
+      "id": "node_9Xd13IYEmHvvt9Es3Juyd",
+      "name": "Question",
+      "format": "QUE - {content}",
+      "color": "#99890e",
+      "created": 1794676111761,
+      "modified": 1794676111761
+    },
+    {
+      "id": "node_IGdxCm3j-WZj9tGqT-kku",
+      "name": "Claim",
+      "format": "CLM - {content}",
+      "color": "#7DA13E",
+      "tag": "clm-candidate",
+      "created": 1794676111761,
+      "modified": 1794676111761
+    },
+    {
+      "id": "node__ZZlUAVEj29WtszmkyTjR",
+      "name": "Evidence",
+      "format": "EVD - {content}",
+      "color": "#DB134A",
+      "tag": "evd-candidate",
+      "created": 1794676111761,
+      "modified": 1794676111761
+    },
+    {
+      "id": "node_ch--n34Gr9K4dbHuV5e3_",
+      "name": "Source",
+      "format": "@{content}",
+      "color": "#9E9E9E",
+      "tag": "src-candidate",
+      "created": 1794676111761,
+      "modified": 1794676111761
+    }
+  ],
+  "relationTypes": [
+    {
+      "id": "relation_8AJI4w3hUlgZ9eb9_FljT",
+      "label": "supports",
+      "complement": "is supported by",
+      "color": "green",
+      "created": 1794676111761,
+      "modified": 1794676111761
+    },
+    {
+      "id": "relation_rC4GNcj4WeLmnIHpUq0G3",
+      "label": "opposes",
+      "complement": "is opposed by",
+      "color": "red",
+      "created": 1794676111761,
+      "modified": 1794676111761
+    },
+    {
+      "id": "relation_ydEQnansxAuOBKYugtkVN",
+      "label": "informs",
+      "complement": "is informed by",
+      "color": "grey",
+      "created": 1794676111761,
+      "modified": 1794676111761
+    },
+    {
+      "id": "relation_VM2MlpvmRVFc23YRcwo3i",
+      "label": "derived from",
+      "complement": "has derivation",
+      "color": "blue",
+      "created": 1794676111761,
+      "modified": 1794676111761
+    }
+  ],
+  "discourseRelations": [
+    {
+      "id": "rel3_xGTI2MeCNYkMRW2DrwY5D",
+      "sourceId": "node__ZZlUAVEj29WtszmkyTjR",
+      "destinationId": "node_9Xd13IYEmHvvt9Es3Juyd",
+      "relationshipTypeId": "relation_ydEQnansxAuOBKYugtkVN",
+      "created": 1794676111761,
+      "modified": 1794676111761
+    },
+    {
+      "id": "rel3_gztsc0yvIlnJcXpkruxej",
+      "sourceId": "node__ZZlUAVEj29WtszmkyTjR",
+      "destinationId": "node_IGdxCm3j-WZj9tGqT-kku",
+      "relationshipTypeId": "relation_8AJI4w3hUlgZ9eb9_FljT",
+      "created": 1794676111761,
+      "modified": 1794676111761
+    },
+    {
+      "id": "rel3_kL00k8dTsIqt3ebhfOpFt",
+      "sourceId": "node__ZZlUAVEj29WtszmkyTjR",
+      "destinationId": "node_IGdxCm3j-WZj9tGqT-kku",
+      "relationshipTypeId": "relation_rC4GNcj4WeLmnIHpUq0G3",
+      "created": 1794676111761,
+      "modified": 1794676111761
+    },
+    {
+      "id": "rel3_bJuLXtr_wFTKYvsBITIIz",
+      "sourceId": "node__ZZlUAVEj29WtszmkyTjR",
+      "destinationId": "node_ch--n34Gr9K4dbHuV5e3_",
+      "relationshipTypeId": "relation_VM2MlpvmRVFc23YRcwo3i",
+      "created": 1794676111761,
+      "modified": 1794676111761
+    }
+  ],
+  "showIdsInFrontmatter": false,
+  "nodesFolderPath": "",
+  "canvasFolderPath": "",
+  "canvasAttachmentsFolderPath": "attachments",
+  "nodeTagHotkey": "\\",
+  "showHelpMenuStatusBarIcon": false,
+  "showDiscourseContextOverlay": true,
+  "syncModeEnabled": false,
+  "spaceNames": {}
+}
