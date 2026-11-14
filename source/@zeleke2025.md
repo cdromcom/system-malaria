@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 4b2b6916-86ed-4441-bfc8-b0d20bba75a7
+nodeID: da820ecd-5643-4bca-ac5e-a545d4873500
 title: High prevalence and emerging positive association of kelch13 R622I and HRP2-based RDT negativity in Plasmodium falciparum in northern Ethiopia
 ---
 

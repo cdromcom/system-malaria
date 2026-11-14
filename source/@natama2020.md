@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: ea032ddd-e4ae-4ea2-b04f-3f7c246c4087
+nodeID: 7c0e26af-1408-45cd-ae68-c59564fbfff2
 title: Prevalence and factors associated with carriage of Pfmdr1 polymorphisms among pregnant women receiving intermittent preventive treatment with sulfadoxine-pyrimethamine
 ---
 

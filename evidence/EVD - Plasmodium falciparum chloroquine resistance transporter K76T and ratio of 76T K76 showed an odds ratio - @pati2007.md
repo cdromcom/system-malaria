@@ -12,7 +12,7 @@ tags:
   - "year/2007"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: b19e551e-9b45-429f-a459-b0094ce68610
+nodeID: 96d3845b-2435-4a26-b89a-d6dfbfdc3068
 title: Plasmodium falciparum chloroquine resistance transporter K76T and ratio of 76T K76 showed an odds ratio of 3.1 - @pati2007
 ---
 

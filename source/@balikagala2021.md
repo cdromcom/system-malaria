@@ -7,7 +7,7 @@ tags:
   - "integrity/commented-on"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: c51824d9-a0b7-4e80-be7e-0f15d35b590a
+nodeID: 582baf19-87b0-4d10-abc0-4070d598d92e
 title: Evidence of Artemisinin-Resistant Malaria in Africa
 ---
 

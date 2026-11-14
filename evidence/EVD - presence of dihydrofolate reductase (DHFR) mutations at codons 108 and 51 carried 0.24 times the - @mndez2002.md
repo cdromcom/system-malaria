@@ -12,7 +12,7 @@ tags:
   - "year/2002"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 03c1de73-68ad-41ba-8f60-b9b45967fa9d
+nodeID: cd1965f2-dc4a-48c3-a3df-f1b30c051355
 title: presence of dihydrofolate reductase (DHFR) mutations at codons 108 and 51 carried 0.24 times the parasite clearance time, a reduction (hazard ratio) - @mndez2002
 ---
 
@@ -51,7 +51,7 @@ title: presence of dihydrofolate reductase (DHFR) mutations at codons 108 and 51
 | **Critical social posts** | None recorded — algorithmic sentiment; for these papers it often reflects alarm at the findings rather than doubt about the work |
 | **PubPeer** | No PubPeer entry (checked by DOI and PubMed ID via the official PubPeer Foundation API; see [[CVT - What the post-publication screen covers and what it cannot]]) |
 | **Open access** | Not determined |
-| **Open data** | Not determined |
+| **Open data** | Cannot tell — not deposited in PMC |
 | **Open code** | None found |
 | **Public accessions** | None found |
 

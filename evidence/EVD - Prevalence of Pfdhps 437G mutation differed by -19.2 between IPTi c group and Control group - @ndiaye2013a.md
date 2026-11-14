@@ -12,7 +12,7 @@ tags:
   - "year/2013"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 0a401be0-c371-4a12-8b0b-7eb374661799
+nodeID: 8f140854-c3f1-4238-a148-d098c92b4db0
 title: Prevalence of Pfdhps 437G mutation differed by -19.2 between IPTi c group and Control group (mean difference unstandardized) - @ndiaye2013a
 ---
 

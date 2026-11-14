@@ -12,7 +12,7 @@ tags:
   - "year/2020"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 7189a190-e2ba-45f3-8b5e-ef1cc84dad64
+nodeID: 4b3c678b-6dbd-4337-8925-e12bff4f2919
 title: relative to women who last received SP (sulfadoxine-pyrimethamine) 4 weeks before delivery and birth weight in women with A581G-bearing parasites showed a mean difference unstandardized of 783 - @taylor2020
 ---
 

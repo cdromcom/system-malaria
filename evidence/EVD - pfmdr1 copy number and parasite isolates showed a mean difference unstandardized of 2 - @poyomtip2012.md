@@ -12,7 +12,7 @@ tags:
   - "year/2012"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 70cb4b28-d350-44e7-a503-a5b62c98f913
+nodeID: f6ad6b16-ddb4-4a4e-ada3-2eafe89b6635
 title: pfmdr1 copy number and parasite isolates showed a mean difference unstandardized of 2 - @poyomtip2012
 ---
 

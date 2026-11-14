@@ -12,7 +12,7 @@ tags:
   - "year/2007"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: bf8799e4-1f77-4901-9d63-7ff2ba960e8b
+nodeID: 06395c64-3e91-4d13-8150-bb9de67bf35d
 title: pfmdr1-86Y and weekly rainfall data showed an odds ratio of 1.07 - @ord2007
 ---
 

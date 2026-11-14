@@ -7,7 +7,7 @@ tags:
   - "method/time-series"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: e9a5408b-83d7-4d6d-91cc-634328563def
+nodeID: a89a060c-b049-4112-91f3-b05db2d67fa2
 title: Can publication dates be used to replay how the evidence on a resistance gene built up over time?
 ---
 

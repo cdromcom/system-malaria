@@ -12,7 +12,7 @@ tags:
   - "year/2018"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: ebf7cf5c-059a-4503-a3a0-70dab5c4936b
+nodeID: a112d9b0-43da-47c2-a0ff-1cad1ea81a77
 title: Prevalence of NYD haplotype in the Pfmdr1 gene differed by 27.2 between Post-2006 treatment guidelines (2009-2013) and Pre-2006 treatment guidelines (2003-2005) (mean difference unstandardized) - @moyeh2018
 ---
 

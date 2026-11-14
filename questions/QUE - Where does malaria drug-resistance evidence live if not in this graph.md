@@ -8,7 +8,7 @@ tags:
   - "challenge/explore-3"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 96fbbf41-78dd-4a0d-8da7-6f6673da48fb
+nodeID: ffc22a39-52ba-44ab-9cbf-4061b14ea897
 title: Where does malaria drug-resistance evidence live, if not in the published statistical literature this graph covers?
 ---
 

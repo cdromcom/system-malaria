@@ -12,7 +12,7 @@ tags:
   - "year/2021"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 7d0d617e-6ab1-4f7e-90ff-365b009c5801
+nodeID: 31ccba31-35a2-4347-aeae-bdf2ec85a9ec
 title: Parasite clearance half-life differed by 0.65 between A675V mutation and C469Y mutation (mean difference unstandardized) - @balikagala2021
 ---
 

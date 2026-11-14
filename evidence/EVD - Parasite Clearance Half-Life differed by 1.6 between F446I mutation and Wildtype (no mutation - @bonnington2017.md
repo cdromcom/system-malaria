@@ -12,7 +12,7 @@ tags:
   - "year/2017"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 373acfd5-f23e-45ea-bea8-ab55140d171b
+nodeID: 605d451f-570e-4d2e-9363-5e77fce82dd0
 title: Parasite Clearance Half-Life differed by 1.6 between F446I mutation and Wildtype (no mutation (mean difference unstandardized) - @bonnington2017
 ---
 

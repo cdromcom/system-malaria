@@ -12,7 +12,7 @@ tags:
   - "year/2010"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: a3dc33ce-5911-4b19-94d3-00d1b0361566
+nodeID: d9c42159-0106-4a83-9f3b-70a8c32b60ed
 title: Prior treatment with dihydroartemisinin-piperaquine (DP) vs. New and K76T in pfcrt showed a mean difference unstandardized of 7.2 - @som2010
 ---
 

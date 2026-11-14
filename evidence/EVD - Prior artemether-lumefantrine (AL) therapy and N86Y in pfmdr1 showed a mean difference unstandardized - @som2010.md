@@ -12,7 +12,7 @@ tags:
   - "year/2010"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: bba0fdf8-874b-4210-9a8a-2ade92df8dc7
+nodeID: 6322e338-a6f4-4c30-a722-9800d233bdb0
 title: Prior artemether-lumefantrine (AL) therapy and N86Y in pfmdr1 showed a mean difference unstandardized of 2.7 - @som2010
 ---
 

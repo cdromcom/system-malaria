@@ -14,7 +14,7 @@ tags:
   - "year/2021"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 7bc65755-7770-4d7c-bcd6-68c152fdf9f4
+nodeID: 52420ca2-1dbc-41d6-8ed7-feaffc1b931a
 title: Mutations in the Plasmodium falciparum genes Pfdhfr and Pfdhps and birth weight showed a mean difference unstandardized of -461 - @hansson2021
 ---
 

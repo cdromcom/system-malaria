@@ -12,7 +12,7 @@ tags:
   - "year/2002"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 1ecb1d1e-eacf-4adb-be40-3e1f51cff091
+nodeID: bda1636a-6d0c-445a-b905-1b19c3f898c2
 title: Pfcrt K76T mutation and resistance to chloroquine showed an odds ratio of 5.31 - @jelinek2002
 ---
 

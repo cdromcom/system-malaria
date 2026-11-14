@@ -12,7 +12,7 @@ tags:
   - "year/2003"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: d6cbbb0f-9f25-4f8f-b73f-dec8f37d5621
+nodeID: 2989a78a-70a1-45d9-ab18-be7f82b92168
 title: Prevalence of DHFR-mutation I164L and P. falciparum showed a mean difference unstandardized of 0.061 - @wichmann2003
 ---
 

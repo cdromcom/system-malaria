@@ -11,7 +11,7 @@ tags:
   - "consistency/consistent"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: a928f4cb-a0ca-46d0-8699-50651ca87c14
+nodeID: a328a384-0ffe-4d5e-9723-c372461be757
 title: Mutations in PfCRT are associated with slower clearance of malaria parasites after treatment, consistently across studies
 ---
 

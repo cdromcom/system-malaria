@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: fc3e31b8-5d8a-4e8d-b907-cb4b0c1b2aaf
+nodeID: 242a8544-b95c-40b6-8ae5-29e7dd000e4c
 title: Rapid increase of Plasmodium falciparum dhfr dhps resistant haplotypes, after the adoption of sulphadoxine-pyrimethamine as first line treatment in 2002, in southern
 ---
 

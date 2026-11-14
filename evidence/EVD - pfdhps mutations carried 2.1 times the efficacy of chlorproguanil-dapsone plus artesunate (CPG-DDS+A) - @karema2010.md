@@ -12,7 +12,7 @@ tags:
   - "year/2010"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 698a6c7e-0dc7-4b83-bd29-28d5eac3374a
+nodeID: 87904c57-0f27-48e8-b523-474b2bfb2c69
 title: pfdhps mutations carried 2.1 times the efficacy of chlorproguanil-dapsone plus artesunate (CPG-DDS+A) (odds ratio) - @karema2010
 ---
 

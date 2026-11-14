@@ -12,7 +12,7 @@ tags:
   - "year/2020"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: f6dd578d-41e1-463b-a722-ad3cfce16e1f
+nodeID: 3a786b01-e296-4d36-855f-86dc9f5f95ba
 title: PfCRT K76T mutations and severe malaria showed an odds ratio of 0.56 - @cuu2020
 ---
 

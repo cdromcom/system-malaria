@@ -12,7 +12,7 @@ tags:
   - "year/2011"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 7a3e042c-27ba-49ad-ab69-a146cd6f6df9
+nodeID: 69dd797a-60ac-4d43-83a9-95cdb91a1993
 title: people aged 10 years and pfcrt T76 mutation showed an odds ratio of 9 - @almekhlafi2011
 ---
 

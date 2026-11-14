@@ -11,7 +11,7 @@ tags:
   - "consistency/consistent"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 3f0c3cd4-f8b8-4c47-84a5-f2b897c85bfd
+nodeID: 13c312d6-c1b3-4ed1-8ef1-1ad6bde8035d
 title: Mutations in PfCRT are associated with higher rates of antimalarial treatment failure, consistently across studies
 ---
 

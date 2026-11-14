@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 95a351c5-730f-4fd5-b5e2-86b74e4ad32e
+nodeID: 83c097e1-2792-4c3a-a660-158c946a0429
 title: Assessment of pfmdr 1 gene copy number by tandem competitive polymerase chain reaction
 ---
 

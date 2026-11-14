@@ -11,7 +11,7 @@ tags:
   - "consistency/consistent"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 0c1a9d92-d4d7-4d25-bdb8-0a7cfcef9e81
+nodeID: 756aaaea-1609-4324-9e68-08e079ed88e9
 title: Mutations in PfDHPS are positively associated with a range of other malaria measures, consistently across studies
 ---
 

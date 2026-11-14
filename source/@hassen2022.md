@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 4203c73c-c27d-4d6e-adb5-a373f5d6d1a4
+nodeID: b24defbc-adfd-4849-bf8b-5c2de59a0fda
 title: High prevalence of Pfcrt 76T and Pfmdr1 N86 genotypes in malaria infected patients attending health facilities in East Shewa zone, Oromia Regional State, Ethiopia
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "year/2003"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: da78b8bc-5b48-4e9d-a6c1-52f52ea3c5cd
+nodeID: 73831348-c11a-4f60-8e17-0b5d24ab5944
 title: Pfmdr-1 Y86 mutation and in vitro resistance showed an odds ratio of 4.8 - @tinto2003
 ---
 

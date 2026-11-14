@@ -13,7 +13,7 @@ tags:
   - "year/2021"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 3d34b86a-11dd-4a95-9d06-e63cfdd9149e
+nodeID: 50728b63-213c-4fae-9d12-22358334c88a
 title: pfmdr1 86N allele and prevalence at day 3 post-treatment compared to baseline showed an odds ratio of 8.77 - @chijiokenwauche2021
 ---
 

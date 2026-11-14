@@ -12,7 +12,7 @@ tags:
   - "year/2018"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 0d9e11e4-fe72-409b-b387-047dd99a1549
+nodeID: e47674f8-3fe0-4b22-b1cb-995bb724de49
 title: Prevalence of YFD haplotype in the Pfmdr1 gene differed by -33.7 between Presence of artemisinin-based combination (artemisinin-based combination therapy) therapy (2009-2013) and Presence of nonartemisinin monotherapy (mean difference unstandardized) - @moyeh2018
 ---
 

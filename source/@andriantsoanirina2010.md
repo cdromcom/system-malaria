@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: df286736-97d6-496c-81ad-08dce7508a7b
+nodeID: 89dd7ca4-d7b0-473a-a274-fac0ee6b21ba
 title: Chloroquine clinical failures in P. falciparum malaria are associated with mutant Pfmdr-1, not Pfcrt in Madagascar
 ---
 

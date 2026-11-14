@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: bc0df708-3c50-4e2b-8d42-bb8d6fd6968f
+nodeID: 0b541dc9-4259-4b7e-9a54-a1913d6c6741
 title: Prevalence of single nucleotide polymorphisms in the Plasmodium falciparum multidrug resistance gene (Pfmdr-1) in Korogwe District in Tanzania before and after
 ---
 

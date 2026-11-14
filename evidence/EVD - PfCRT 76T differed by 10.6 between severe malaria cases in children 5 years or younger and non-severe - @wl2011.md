@@ -12,7 +12,7 @@ tags:
   - "year/2011"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 0c06dada-3909-4413-8f41-b993c37a285c
+nodeID: f0189866-8a88-47f0-86ef-63b7499c4d4b
 title: PfCRT 76T differed by 10.6 between severe malaria cases in children 5 years or younger and non-severe malaria cases in children 5 (mean difference unstandardized) - @wl2011
 ---
 

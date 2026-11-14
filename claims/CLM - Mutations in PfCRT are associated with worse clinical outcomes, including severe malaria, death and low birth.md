@@ -11,7 +11,7 @@ tags:
   - "consistency/contested"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 03ee8588-5e57-4c2d-b780-0096d924eeac
+nodeID: 4e4de440-d76c-4432-b4b5-a93aac4e7029
 title: Mutations in PfCRT are associated with worse clinical outcomes, including severe malaria, death and low birth weight — but the published evidence is contested
 ---
 

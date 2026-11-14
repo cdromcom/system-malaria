@@ -11,7 +11,7 @@ tags:
   - "consistency/contested"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: cca20a96-06e1-4368-8eef-c53b69b40c41
+nodeID: ad3dbfe2-d830-44fa-811d-0ffb98e5a0a7
 title: Mutations in Pfkelch13 are positively associated with a range of other malaria measures — but the published evidence is contested
 ---
 

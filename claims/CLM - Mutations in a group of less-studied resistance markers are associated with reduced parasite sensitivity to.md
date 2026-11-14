@@ -11,7 +11,7 @@ tags:
   - "consistency/consistent"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: dfa1539c-0e52-46ce-9565-7e0d5834dc07
+nodeID: 0be78f2e-c2b1-4257-a33b-924feaf55837
 title: Mutations in a group of less-studied resistance markers are associated with reduced parasite sensitivity to antimalarial drugs in laboratory testing, consistently across studies
 ---
 

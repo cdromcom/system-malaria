@@ -12,7 +12,7 @@ tags:
   - "year/2012"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: e9c1914d-8cda-47ef-8996-06beb426b385
+nodeID: 72df0006-cee4-464e-bf32-9a773932b803
 title: pfmdr1 copy number and number of NHNDNHNNDDD repeats showed a mean difference unstandardized of 2 - @poyomtip2012
 ---
 

@@ -8,7 +8,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: ef260fc8-2d2e-4ef0-a94e-6e14cf135c02
+nodeID: 5f144380-d32c-47ad-96cd-649e4151ad8b
 title: Diagnostic value of molecular markers in chloroquine-resistant falciparum malaria in Southern Mauritania
 ---
 

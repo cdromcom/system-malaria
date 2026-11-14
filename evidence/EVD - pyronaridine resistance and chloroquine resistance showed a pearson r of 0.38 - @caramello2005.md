@@ -12,7 +12,7 @@ tags:
   - "year/2005"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 0f52d1be-0bb5-4443-9eef-9ac4223292b8
+nodeID: c61014a4-e572-4709-8669-a9c8ca27d098
 title: pyronaridine resistance and chloroquine resistance showed a pearson r of 0.38 - @caramello2005
 ---
 

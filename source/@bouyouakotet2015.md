@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: f9177f96-597f-412d-acf9-b46bb3da3cdc
+nodeID: 7215b6c5-bbef-44f1-a2bf-21b5768f939b
 title: Frequencies of dhfr dhps multiple mutations and Plasmodium falciparum submicroscopic gametocyte carriage in Gabonese pregnant women following IPTp-SP implementation
 ---
 

@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: ab15a9bb-0140-442e-b47e-5246392ad957
+nodeID: 3785b986-b5b8-41c4-9626-2aa9825c8528
 title: Population-based validation of dihydrofolate reductase gene mutations for the prediction of sulfadoxine-pyrimethamine resistance in Uganda
 ---
 

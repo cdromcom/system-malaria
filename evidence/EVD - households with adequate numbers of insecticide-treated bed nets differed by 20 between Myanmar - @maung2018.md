@@ -12,7 +12,7 @@ tags:
   - "year/2018"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: d30a84f5-bd1b-4751-8fbc-a7c54041da9b
+nodeID: 227f9fa5-a2d7-49f0-a289-25c3c5a6c228
 title: households with adequate numbers of insecticide-treated bed nets differed by 20 between Myanmar Artemisinin Resistance Containment areas and non-Myanmar Artemisinin Resistance (mean difference unstandardized) - @maung2018
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "year/2018"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 0f0abf13-76e8-4f13-9871-9d90d4ede7ed
+nodeID: 84762fd9-dfd5-4962-8dc6-91f51a6300fc
 title: C580Y and C580 infections was associated with an increase of 2.07 in time to clearance (of the malaria parasite) (mean difference unstandardized) - @s2018
 ---
 

@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: b3520f81-1914-4de6-bf13-729ea7eb61da
+nodeID: a1ea55cd-265f-4c44-b4a1-a032833160dc
 title: Plasmodium falciparum Isolates Carrying pfk13 Polymorphisms Harbor the SVMNT Allele of pfcrt in Northwestern Indonesia
 ---
 

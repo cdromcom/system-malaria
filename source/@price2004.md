@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 0057fdcc-16e4-44f1-b547-f7951073942f
+nodeID: c8876355-a69c-40ec-9980-a01aba4484c7
 title: Mefloquine resistance in Plasmodium falciparum and increased pfmdr1 gene copy number
 ---
 

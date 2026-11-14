@@ -12,7 +12,7 @@ tags:
   - "year/2009"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: c91c9c47-286e-46cd-baec-e069b8ce5409
+nodeID: bb3c48ce-ff3d-43ec-9927-f55172860176
 title: CQ (chloroquine) treatment and pfmdr-1 86Y mutation showed an odds ratio of 2.45 - @tekete2009
 ---
 

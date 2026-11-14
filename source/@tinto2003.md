@@ -8,7 +8,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 74d89a4d-7e9e-4a19-825c-585234bec16b
+nodeID: 149dc682-c43a-48d8-8442-006fb0c8d5fb
 title: Relationship between the Pfcrt T76 and the Pfmdr-1 Y86 mutations in Plasmodium falciparum and in vitro in vivo chloroquine resistance in Burkina Faso, West Africa
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "year/2021"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: b3215d87-2191-48d4-a49c-8545d0574722
+nodeID: 62ebba00-b6e0-4ce1-b6fd-225e408e2ac8
 title: P. falciparum infections with Pfkelch13 propeller mutations carried 9.42 times the risk of recrudescence (relative risk ratio) - @saito2021
 ---
 

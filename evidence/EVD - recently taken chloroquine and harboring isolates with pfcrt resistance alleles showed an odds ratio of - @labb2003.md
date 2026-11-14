@@ -12,7 +12,7 @@ tags:
   - "year/2003"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: d81efcda-b8ec-4032-86f3-e799267cbcb6
+nodeID: 0408ad91-2ff2-45ca-97d0-eace576913c6
 title: recently taken chloroquine and harboring isolates with pfcrt resistance alleles showed an odds ratio of 4.47 - @labb2003
 ---
 

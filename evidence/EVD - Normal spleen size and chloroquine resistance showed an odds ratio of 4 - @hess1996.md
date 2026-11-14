@@ -12,7 +12,7 @@ tags:
   - "year/1996"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 9c87ca5f-5d24-45ab-bc03-9096fbcd740f
+nodeID: 1c4189c8-7641-4eef-8d28-3b2217216568
 title: Normal spleen size and chloroquine resistance showed an odds ratio of 4 - @hess1996
 ---
 

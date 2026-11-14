@@ -12,7 +12,7 @@ tags:
   - "year/2018"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 9a2643f9-c445-4622-b84c-99ce12f01377
+nodeID: d1ce605f-5532-4d3e-ab2b-3e31ba0f3f4e
 title: Pfmdr1 polymorphisms at positions 86 184 or 1246 and prevalence of Pfmdr1 polymorphisms at positions 86 184 or 1246 showed a coefficient of -0.035 - @okell2018
 ---
 

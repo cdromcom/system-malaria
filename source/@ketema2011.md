@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: bb71f1c4-a9a6-4108-a286-8988d1eb849c
+nodeID: 122a7480-8ec6-4f1b-9435-c830c8ce864c
 title: Therapeutic efficacy of chloroquine for treatment of Plasmodium vivax malaria cases in Halaba district, South Ethiopia
 ---
 

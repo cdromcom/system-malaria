@@ -13,7 +13,7 @@ tags:
   - "year/2024"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 2029ff3a-82e0-4f8e-85f0-04853a4a0c25
+nodeID: 0f7fdfe6-b33b-4420-a105-0034ef1024f1
 title: Seasonal Malaria Chemoprevention with monthly administration of and prevalence of Pfdhfr Pfdhps quintuple mutant IRN-436A437G showed a mean difference unstandardized of -39.7 - @bohissou2024
 ---
 

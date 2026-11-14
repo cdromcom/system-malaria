@@ -12,7 +12,7 @@ tags:
   - "year/2013"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: b5b50444-684e-45ed-9cec-68e853b8c7fd
+nodeID: f753fff9-b8eb-4d53-a74f-7b132c121dc8
 title: P. falciparum multidrug resistance gene 1 D1246 and yearly increase (of pfmdr1 D1246) showed an odds ratio of 1.21 - @malmberg2013
 ---
 

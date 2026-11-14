@@ -12,7 +12,7 @@ tags:
   - "year/2018"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 988105ee-23a2-4a84-9f17-dce0b8cf00ff
+nodeID: abe459c8-6215-421c-b9ff-77780f81d06a
 title: C580Y and C580 infections was associated with an increase of 0.01 in time to clearance (mean difference unstandardized) - @s2018
 ---
 

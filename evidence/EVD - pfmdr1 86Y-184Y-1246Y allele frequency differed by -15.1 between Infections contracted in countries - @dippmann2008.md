@@ -12,7 +12,7 @@ tags:
   - "year/2008"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: a0f0ea57-f52c-4b99-8f32-55db607b04cd
+nodeID: 3b31bb3b-136c-4ae4-b098-e4dda4f0ed2e
 title: pfmdr1 86Y-184Y-1246Y allele frequency differed by -15.1 between Infections contracted in countries implementing amodiaquine and Infections contracted in countries with (mean difference unstandardized) - @dippmann2008
 ---
 

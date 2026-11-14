@@ -12,7 +12,7 @@ tags:
   - "year/2018"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 5d8a0de5-1039-4806-912e-4c1421413f41
+nodeID: f0efcc7a-d8d8-4178-bf80-41b58c3b3701
 title: Early diagnosis and effective treatment of artemisinin-resistant P carried 0.75 times the incidence of P falciparum malaria, a reduction (incident rate ratio) - @landier2018
 ---
 

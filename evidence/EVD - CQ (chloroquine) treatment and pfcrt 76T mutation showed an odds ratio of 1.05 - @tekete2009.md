@@ -12,7 +12,7 @@ tags:
   - "year/2009"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: e9c376ac-83c9-4330-a543-3bb3675bddb8
+nodeID: 720cb72d-f3e0-4b4e-8776-c0d24e516106
 title: CQ (chloroquine) treatment and pfcrt 76T mutation showed an odds ratio of 1.05 - @tekete2009
 ---
 

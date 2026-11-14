@@ -13,7 +13,7 @@ tags:
   - "year/2018"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 90b47bbc-1a3f-4caf-853b-7c0926701e4c
+nodeID: 97887f7a-27a0-4b7a-8881-68c6c286fa02
 title: Prevalence of 4-aminoquinolines resistance in the 76T and 86Y differed by -38.4 between Artemisinin-based combination (artemisinin-based combination therapy) therapy (2009-2013) and Nonartemisinin monotherapy (2003-2005 (mean difference unstandardized) - @moyeh2018
 ---
 

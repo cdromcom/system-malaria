@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 98cb0d0b-d388-40dd-aff9-3af9c1312e82
+nodeID: 0f64857c-e477-42a9-9b6e-69da68798b2a
 title: Polymorphisms of the pfmdr1 but not the pfnhe-1 gene is associated with in vitro quinine sensitivity in Thai isolates of Plasmodium falciparum
 ---
 

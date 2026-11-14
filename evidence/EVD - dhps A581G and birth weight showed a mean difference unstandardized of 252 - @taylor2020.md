@@ -12,7 +12,7 @@ tags:
   - "year/2020"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: d152055b-2c47-49d9-85f8-1b0321c6d553
+nodeID: 2e2471d6-c9f1-41c5-b14e-3c468945cd90
 title: dhps A581G and birth weight showed a mean difference unstandardized of 252 - @taylor2020
 ---
 

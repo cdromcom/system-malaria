@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 3a983b31-0606-409c-b7cf-f3b3a12145f8
+nodeID: b8062559-50da-4055-89f5-591047fb5d53
 title: Efficacy of dihydroartemisinin piperaquine and artesunate monotherapy for the treatment of uncomplicated Plasmodium falciparum malaria in Central Vietnam
 ---
 

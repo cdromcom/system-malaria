@@ -14,7 +14,7 @@ tags:
   - "year/2015"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 530db39e-f2d7-472f-98ea-a2a1c756e328
+nodeID: 40a0302a-e33f-4061-8c13-d794829a2545
 title: presence of the quintuple mutant dhfr N51I C59R S108N+dhps A437G carried 3.5 times the treatment failure (among the study participants) (odds ratio) - @warsame2015
 ---
 

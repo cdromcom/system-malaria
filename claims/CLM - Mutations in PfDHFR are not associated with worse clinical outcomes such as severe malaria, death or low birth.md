@@ -11,7 +11,7 @@ tags:
   - "consistency/consistent"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: a7f37971-c2cb-40e9-ae39-f2a1dab1e3e1
+nodeID: 842e1ec4-71bf-48b8-b8e4-5d08ef7e0df2
 title: Mutations in PfDHFR are not associated with worse clinical outcomes such as severe malaria, death or low birth weight, consistently across studies
 ---
 

@@ -13,7 +13,7 @@ tags:
   - "year/2003"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 9cef5aad-d13b-44ff-8e64-a6a4c2ec4883
+nodeID: 4a0d8c59-15ca-4c79-bae6-d78ccfadc188
 title: Pfcrt T76 mutation and Pfmdr-1 Y86 mutation showed an odds ratio of 4.8 - @tinto2003
 ---
 

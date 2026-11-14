@@ -12,7 +12,7 @@ tags:
   - "year/2004"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 9be2a44b-4adc-4e81-b180-bcd52d31b133
+nodeID: 6493a0e4-3762-40c2-a98f-efbe7d7e41f9
 title: copy number of P falciparum multidrug resistant gene 1 and in-vitro and in-vivo responses to mefloquine showed a hazard ratio of 6.3 - @price2004
 ---
 

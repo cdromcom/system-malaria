@@ -8,7 +8,7 @@ tags:
   - "integrity/corrected"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 71de3016-706c-4c4a-8335-859000c8f084
+nodeID: fb04f6e1-0acc-4073-b2b5-984bd7bd21e6
 title: A surrogate marker of piperaquine-resistant Plasmodium falciparum malaria a phenotype-genotype association study
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "year/2015"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: a0153b55-eb84-439c-9554-4a8972ce027b
+nodeID: 9d5a5c5b-5301-4694-a97f-d6e13af84908
 title: prevalence of pfcrt-76T mutation differed by 12 between 2007 samples from Asembo, Gem, and Karemo and 2001 samples from Asembo (mean difference unstandardized) - @shah2015
 ---
 

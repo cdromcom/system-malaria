@@ -12,7 +12,7 @@ tags:
   - "year/2020"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 7873c6c8-ec57-4ee5-b690-83386e94dc4d
+nodeID: 81ed1444-bac0-4c52-9452-f5bc0aac03cd
 title: PfMDR1 Y184F mutations and severe malaria showed an odds ratio of 0.59 - @cuu2020
 ---
 

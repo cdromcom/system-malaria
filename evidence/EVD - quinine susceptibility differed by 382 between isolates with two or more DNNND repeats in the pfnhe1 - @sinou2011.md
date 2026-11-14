@@ -12,7 +12,7 @@ tags:
   - "year/2011"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 72566eb2-6d92-49e5-8228-21d15a2f9f0e
+nodeID: bcba62f9-60f3-4d19-9af9-35533cca1522
 title: quinine susceptibility differed by 382 between isolates with two or more DNNND repeats in the pfnhe1 and isolates with zero or one DNNND repeats (mean difference unstandardized) - @sinou2011
 ---
 

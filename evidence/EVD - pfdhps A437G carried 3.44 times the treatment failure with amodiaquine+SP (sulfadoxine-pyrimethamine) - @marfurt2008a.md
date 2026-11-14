@@ -12,7 +12,7 @@ tags:
   - "year/2008"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: f1076e74-efa0-498f-b78a-b7ed445d5ff4
+nodeID: f52b2b53-f4f4-474c-ba09-ea4b2103a6d1
 title: pfdhps A437G carried 3.44 times the treatment failure with amodiaquine+SP (sulfadoxine-pyrimethamine) (odds ratio) - @marfurt2008a
 ---
 

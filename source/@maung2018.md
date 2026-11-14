@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: b67c2289-a9aa-45bc-a894-6e760b03876e
+nodeID: e3c075b8-03f2-4f3a-8df9-0236017e07eb
 title: Assessment of household ownership of bed nets in areas with and without artemisinin resistance containment measures in Myanmar
 ---
 

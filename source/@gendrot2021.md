@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: b6e9158e-b0e1-48eb-bd35-bd5205ef80b4
+nodeID: dd1b80aa-bfca-4bdf-91ae-4d0d74b38add
 title: Absence of Association between Methylene Blue Reduced Susceptibility and Polymorphisms in 12 Genes Involved in Antimalarial Drug Resistance in African Plasmodium
 ---
 

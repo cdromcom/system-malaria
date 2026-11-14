@@ -12,7 +12,7 @@ tags:
   - "year/2002"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 3da3c93b-5cad-46b3-b99d-a58712bd18a2
+nodeID: 39988276-668e-4cd0-bc9b-8d6cafeafea2
 title: mutant genotype at codon 76 of the pfcrt gene (T76) and parasitological (RI + RII + RIII) showed a pearson r of 0.17 - @talisuna2002
 ---
 

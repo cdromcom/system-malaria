@@ -12,7 +12,7 @@ tags:
   - "year/2011"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: b0cf1072-b6c0-4933-9511-b2085bb49100
+nodeID: 5f98e1e9-be3f-4746-9496-a2fab0c60352
 title: Prevalence of quintuple mutant infections differed by 12 between Pregnant women who received sulphadoxine-pyrimethamine (sulfadoxine-pyrimethamine) and Pregnant women who received placebo (mean difference unstandardized) - @menndez2011
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "year/1987"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 41d968cc-79d1-4c96-b12f-af98a6c39efe
+nodeID: 7b120a2d-08c2-4dcb-8f8f-1dd230ffac3e
 title: in vitro chloroquine resistance and inhibitory endpoints for quinine showed a pearson r of 0.64 - @nguyendinh1987
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "year/2016"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: ed281ca4-f5ac-418b-b47f-ff1ee6696d59
+nodeID: 01c36222-90ff-442f-b6b2-708d97ee9286
 title: K13 (Pfkelch13) mutation differed by -11 between sites in western border regions and sites in east and north regions (mean difference unstandardized) - @win2016
 ---
 

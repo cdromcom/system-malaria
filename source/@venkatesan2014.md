@@ -8,7 +8,7 @@ tags:
   - "integrity/corrected"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: ebe4250e-076f-45f6-b043-250d89358032
+nodeID: 0a9cc277-27b7-484b-b7bc-4e950ad380d3
 title: Polymorphisms in Plasmodium falciparum chloroquine resistance transporter and multidrug resistance 1 genes parasite risk factors that affect treatment outcomes for P
 ---
 

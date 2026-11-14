@@ -14,7 +14,7 @@ tags:
   - "year/2020"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: a91d4dad-74b7-4ff3-b8be-186fef263144
+nodeID: e7ae40c2-7471-410b-a68f-163fbfeab6a7
 title: Presence of parasitemia (parasitaemia) on Day 3 after dihydroartemisinin was associated with an increase of 13 in ex vivo survival rates to artemisinin compounds and prevalence of (mean difference unstandardized) - @roviravallbona2020
 ---
 

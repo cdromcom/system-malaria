@@ -12,7 +12,7 @@ tags:
   - "year/2011"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 126fa101-61e6-4730-9707-fa58c8b6ca09
+nodeID: c4661101-ac26-410e-a8d2-3611169b5e9d
 title: intermittent preventive treatment during pregnancy with and prevalence of quintuple mutant infections showed an odds ratio of 8.13 - @menndez2011
 ---
 

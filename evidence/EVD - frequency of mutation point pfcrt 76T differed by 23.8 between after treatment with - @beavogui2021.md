@@ -12,7 +12,7 @@ tags:
   - "year/2021"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: dc4b6eeb-2f9b-43f2-be8a-830733c472b5
+nodeID: 6bc3449f-11ef-4984-9e12-a3b780ab7c3b
 title: frequency of mutation point pfcrt 76T differed by 23.8 between after treatment with Artesunate-Amodiaquine (AS+AQ) and before treatment (mean difference unstandardized) - @beavogui2021
 ---
 

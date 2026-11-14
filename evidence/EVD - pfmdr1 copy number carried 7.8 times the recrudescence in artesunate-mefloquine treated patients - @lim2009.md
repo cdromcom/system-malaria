@@ -12,7 +12,7 @@ tags:
   - "year/2009"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: fcebbc9b-0194-4e2d-aeb5-d5339eb8b70b
+nodeID: e0939b5d-9254-43a2-8053-58bcbe2a8bfe
 title: pfmdr1 copy number carried 7.8 times the recrudescence in artesunate-mefloquine treated patients (hazard ratio) - @lim2009
 ---
 

@@ -8,7 +8,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 662cb055-3223-4288-8cc1-61e79a1eeea0
+nodeID: 782d24c1-160f-4f45-b30a-d117c81fb12d
 title: Evolution of Pfdhps and Pfdhfr mutations before and after adopting seasonal malaria chemoprevention in Nanoro, Burkina Faso
 ---
 

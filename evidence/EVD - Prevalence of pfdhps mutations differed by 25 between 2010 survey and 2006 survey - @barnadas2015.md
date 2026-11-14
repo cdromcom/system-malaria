@@ -12,7 +12,7 @@ tags:
   - "year/2015"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: b994f3fd-7ad4-4d9b-b792-5df1ec83061f
+nodeID: 8aad94ec-c910-4646-8fd1-3df92884cb91
 title: Prevalence of pfdhps mutations differed by 25 between 2010 survey and 2006 survey (mean difference unstandardized) - @barnadas2015
 ---
 

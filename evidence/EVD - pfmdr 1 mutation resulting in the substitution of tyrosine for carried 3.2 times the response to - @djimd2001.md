@@ -12,7 +12,7 @@ tags:
   - "year/2001"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 6e1fc4e7-ee84-47dd-98a0-5a1841f9d8a0
+nodeID: 1452dd56-7c31-4f6f-8407-2cd3621c452d
 title: pfmdr 1 mutation resulting in the substitution of tyrosine for carried 3.2 times the response to chloroquine treatment in patients with uncomplicated (odds ratio) - @djimd2001
 ---
 

@@ -8,7 +8,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 87be4f80-c710-4988-a8a0-83a0fec0ca99
+nodeID: 23e31ec5-82a8-4569-b516-160862c7fda6
 title: Reduced Birth Weight Caused by Sextuple Drug-Resistant Plasmodium falciparum Infection in Early Second Trimester
 ---
 

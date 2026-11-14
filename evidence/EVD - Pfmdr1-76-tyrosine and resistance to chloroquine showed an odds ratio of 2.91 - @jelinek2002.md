@@ -12,7 +12,7 @@ tags:
   - "year/2002"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: a4c970ac-abd3-4285-b3a1-601335bebdd2
+nodeID: 4ad7bf76-ad12-4443-97bb-00fbb4284626
 title: Pfmdr1-76-tyrosine and resistance to chloroquine showed an odds ratio of 2.91 - @jelinek2002
 ---
 

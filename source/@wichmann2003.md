@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 0851def7-cb37-43e1-a086-3b8177c8ac13
+nodeID: 8b1d1d2f-cd5b-47ab-944d-479dd1f1f01f
 title: Molecular surveillance of the antifolate-resistant mutation I164L in imported African isolates of Plasmodium falciparum in Europe sentinel data from TropNetEurop
 ---
 

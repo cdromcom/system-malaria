@@ -12,7 +12,7 @@ tags:
   - "year/2008"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 57156f3f-0373-49c2-b631-85e36f70afdb
+nodeID: 41883bb5-12d2-4d38-9470-e41a955b8dac
 title: pfmdr1 N86Y carried 7.87 times the treatment failure with amodiaquine+SP (sulfadoxine-pyrimethamine) (odds ratio) - @marfurt2008a
 ---
 

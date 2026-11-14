@@ -13,7 +13,7 @@ tags:
   - "year/2009"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: d0b2cb8a-69d5-4dbc-9cca-d495c002a68b
+nodeID: 15a2a673-e921-422e-abd6-df7762c327cb
 title: presence of polymorphisms in P. falciparum dihydrofolate reductase (DHFR) and in vivo treatment outcomes (among patients) showed a relative risk ratio of 2.58 - @bacon2009
 ---
 

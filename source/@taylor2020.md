@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: ff449877-4ddb-4400-b74e-a47cdb935e94
+nodeID: 35fb9296-db3c-4d84-921d-02f938512b18
 title: Interactions Between Antenatal Sulfadoxine-Pyrimethamine, Drug-Resistant Plasmodium falciparum Parasites, and Delivery Outcomes in Malawi
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "year/2009"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 9f176cdc-6ef2-46a0-a6b8-7952bb209121
+nodeID: b5f2eec2-6f43-47ab-9548-f216200607db
 title: pfmdr1 copy number carried 1.03 times the recrudescence in artemether-lumefantrine treated patients (hazard ratio) - @lim2009
 ---
 

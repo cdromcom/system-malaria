@@ -13,7 +13,7 @@ tags:
   - "year/2014"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 60a6a9a1-1f68-4569-8671-945251648305
+nodeID: 5f4573a1-5829-4735-bbeb-fb6ba65f1b2b
 title: polymorphisms in pfmdr1 and pfcrt and prevalences of polymorphisms in Tororo, Uganda showed an odds ratio of 0.78 - @conrad2014
 ---
 

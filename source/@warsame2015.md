@@ -8,7 +8,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 4aee6671-7793-4128-b267-b9ac3dd9dc4f
+nodeID: 887715eb-3423-4b12-99a0-0691ffc17278
 title: Treatment of uncomplicated malaria with artesunate plus sulfadoxine-pyrimethamine is failing in Somalia evidence from therapeutic efficacy studies and Pfdhfr and Pfdhps
 ---
 

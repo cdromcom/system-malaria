@@ -12,7 +12,7 @@ tags:
   - "year/2013"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: ed32cce8-0ae1-4747-8dd9-186aa7bf2541
+nodeID: 1f676361-dad1-449f-9c99-380e9746fcb5
 title: P. falciparum multidrug resistance gene 1 N86 and yearly increase showed an odds ratio of 1.38 - @malmberg2013
 ---
 

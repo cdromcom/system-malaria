@@ -12,7 +12,7 @@ tags:
   - "year/2014"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: f549825c-2946-40c6-92b6-bf53fe764263
+nodeID: dc3cf7b6-0c41-43eb-9a9d-eb000eb37e8d
 title: increased pfmdr1 copy number and therapeutic responses to artesunate-amodiaquine and showed an adjusted hazard ratio of 6.52 - @venkatesan2014
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "year/2025"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 7ca0919a-0fcf-4298-9425-a2f588340f6a
+nodeID: 75af16c1-8c92-4b53-9d01-317c3c587346
 title: R622I mutation frequency differed by 17 between R622I mutation in Gondar Zuria and R622I mutation in Tach Armachiho (mean difference unstandardized) - @zeleke2025
 ---
 

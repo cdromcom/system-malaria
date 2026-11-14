@@ -8,7 +8,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: db5408e0-67ea-42a7-abd4-8c84f0bbebf4
+nodeID: 6bd84d32-c570-4380-bb51-a314c76294f3
 title: Targeted and whole-genome sequencing reveal a north-south divide in P. falciparum drug resistance markers and genetic structure in Mozambique
 ---
 

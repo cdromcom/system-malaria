@@ -11,7 +11,7 @@ tags:
   - "consistency/mostly-consistent"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 34a032b4-5848-42e5-b2fa-c4263d1074ea
+nodeID: a9661392-48d8-4322-96b3-8fbef22dbe69
 title: Resistance-mutation prevalence in Pfmdr1 rises with drug pressure and over time across the settings studied, though a minority of findings disagree
 ---
 

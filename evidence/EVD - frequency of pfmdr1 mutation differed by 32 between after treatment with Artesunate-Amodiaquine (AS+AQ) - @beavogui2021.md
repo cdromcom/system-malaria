@@ -12,7 +12,7 @@ tags:
   - "year/2021"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: fa3233ae-e279-42ea-be13-d93c9082c613
+nodeID: 80c75e74-625b-46ab-a655-271ac23b494f
 title: frequency of pfmdr1 mutation differed by 32 between after treatment with Artesunate-Amodiaquine (AS+AQ) and before treatment (mean difference unstandardized) - @beavogui2021
 ---
 

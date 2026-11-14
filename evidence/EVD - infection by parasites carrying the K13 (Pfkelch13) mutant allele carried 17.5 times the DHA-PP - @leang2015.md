@@ -13,7 +13,7 @@ tags:
   - "year/2015"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: bdbcd162-a60f-477d-80f6-9f7f515b969e
+nodeID: b3772eaf-7fff-4698-8b93-e7cbe482614e
 title: infection by parasites carrying the K13 (Pfkelch13) mutant allele carried 17.5 times the DHA-PP treatment failure (odds ratio) - @leang2015
 ---
 

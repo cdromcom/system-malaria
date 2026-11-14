@@ -11,7 +11,7 @@ tags:
   - "consistency/consistent"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 7cb0d804-05fb-4174-a7a4-161db0616b2b
+nodeID: 34740968-7c38-45bb-9617-06e1e453d56e
 title: Mutations in PfDHPS are associated with higher rates of antimalarial treatment failure, consistently across studies
 ---
 

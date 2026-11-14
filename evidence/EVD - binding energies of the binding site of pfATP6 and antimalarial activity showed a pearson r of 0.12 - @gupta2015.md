@@ -12,7 +12,7 @@ tags:
   - "year/2015"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: d3dc59f5-438a-48c0-88de-b047a92fa201
+nodeID: 44903207-49a8-482c-bbe9-4febd2d9319e
 title: binding energies of the binding site of pfATP6 and antimalarial activity showed a pearson r of 0.12 - @gupta2015
 ---
 

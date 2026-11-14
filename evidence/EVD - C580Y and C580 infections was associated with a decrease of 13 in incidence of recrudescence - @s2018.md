@@ -12,7 +12,7 @@ tags:
   - "year/2018"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: a55443a5-fd29-40b7-a424-2b1cd3b651bc
+nodeID: 97a443da-d63e-44f1-b087-80a3c657113e
 title: C580Y and C580 infections was associated with a decrease of 13 in incidence of recrudescence (mean difference unstandardized = -13) - @s2018
 ---
 

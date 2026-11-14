@@ -11,7 +11,7 @@ tags:
   - "consistency/mostly-consistent"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: a404bd00-d686-467b-bb3a-8cf9c017c856
+nodeID: cf10186b-7dc6-497d-8431-ec8a59763a67
 title: Mutations in PfCRT are positively associated with a range of other malaria measures, though a minority of findings disagree
 ---
 

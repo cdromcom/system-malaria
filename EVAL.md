@@ -12,13 +12,13 @@ Every openness claim in this vault traces to text in a paper or to an explicit s
 > [!info] How quotations are cited
 > PMC full text is **unpaginated**, so in-text citations give the **section name** rather than a page number, per APA 7th's rule for sources without pagination. Reference-list entries at the foot of this file carry the journal page range from PubMed where one exists. Quotations are truncated at roughly 320 characters.
 
-**Scope.** 117 source papers. 81 have a PMC record and 58 have full text there, which is the only route to an availability statement. 36 are not in PMC at all, so no statement can be quoted for them in either direction.
+**Scope.** 118 source papers. 81 have a PMC record and 58 have full text there, which is the only route to an availability statement. 37 are not in PMC at all, so no statement can be quoted for them in either direction.
 
 ---
 
 ## Check 1 — Data deposited in a public repository
 
-**6 of 117 papers.** Quoted evidence for each:
+**6 of 118 papers.** Quoted evidence for each:
 
 ### [[@baraka2018]] (Baraka et al., 2018, Data Availability)
 
@@ -68,7 +68,7 @@ Accessions: `PRJNA1269601`
 
 ## Check 2 — Data available only on request
 
-**9 of 117 papers.** These findings cannot be independently re-derived, which is why their evidence notes carry a reproducibility warning.
+**9 of 118 papers.** These findings cannot be independently re-derived, which is why their evidence notes carry a reproducibility warning.
 
 ### [[@bohissou2024]] (Bohissou et al., 2024, Data availability)
 
@@ -128,7 +128,7 @@ Accessions: `PRJNA1269601`
 
 ## Check 3 — Analysis code published
 
-**3 of 117 papers.** This is the weakest link in the whole evidence base: the analysis that turned observations into the statistics in this vault is almost never available.
+**3 of 118 papers.** This is the weakest link in the whole evidence base: the analysis that turned observations into the statistics in this vault is almost never available.
 
 ### [[@dasilva2023]] (da Silva et al., 2023, Data availability)
 
@@ -154,7 +154,7 @@ Repositories: `github.com/Mrc-ide/mipanalyzer`, `github.com/bailey-lab/MIPTools`
 
 ## Check 4 — Statement present but not explicit
 
-**18 of 117 papers.** A statement exists but does not say whether the data are obtainable. Quoted so a reader can judge for themselves:
+**18 of 118 papers.** A statement exists but does not say whether the data are obtainable. Quoted so a reader can judge for themselves:
 
 - [[@asare2021]] (Asare et al., 2021, Availability of data and materials) — "Not applicable."
 - [[@dong2018]] (Dong et al., 2018, Availability of data and materials) — "Not applicable."
@@ -166,7 +166,7 @@ Repositories: `github.com/Mrc-ide/mipanalyzer`, `github.com/bailey-lab/MIPTools`
 
 ## Check 5 — No availability statement found
 
-**25 of 117 papers.** Full text was present in PMC and searched; no availability statement was found. This is a negative result from a successful search, not a failure to look.
+**25 of 118 papers.** Full text was present in PMC and searched; no availability statement was found. This is a negative result from a successful search, not a failure to look.
 
 | Paper | Journal | Repositories named in text |
 |---|---|---|
@@ -200,9 +200,9 @@ Repositories: `github.com/Mrc-ide/mipanalyzer`, `github.com/bailey-lab/MIPTools`
 
 ## Check 6 — Could not be determined
 
-**59 of 117 papers (50%).** No text to search, so no conclusion either way. This must not be read as 'no open data'.
+**60 of 118 papers (51%).** No text to search, so no conclusion either way. This must not be read as 'no open data'.
 
-- **36 papers are not in PMC.** No deposited full text exists to search.
+- **37 papers are not in PMC.** No deposited full text exists to search.
 - **23 papers have a PMC record holding front matter only** — abstract and metadata, fewer than three body sections.
 
 ---
@@ -219,7 +219,7 @@ This check reads metadata rather than paper text, so there is nothing to quote. 
 | hybrid | 7 | open in a subscription journal, usually paid for |
 | diamond | 4 | open with no fee to author or reader |
 | closed | 27 | paywalled, no free version located |
-| not determined | 1 | not determined |
+| not determined | 2 | not determined |
 
 ---
 
@@ -257,7 +257,7 @@ Papers carrying negatively-scored social posts, from retractionrisk.com's Altmet
 
 ## Check 9 — PubPeer comments
 
-**0 of 117 papers have any PubPeer entry.**
+**0 of 118 papers have any PubPeer entry.**
 
 Queried through the API published in The PubPeer Foundation's own browser extension ([PubPeerBrowserExtensions](https://github.com/PubPeerFoundation/PubPeerBrowserExtensions), MIT licence, `js/contentScript/pubpeer.js`):
 
@@ -268,15 +268,15 @@ Content-Type: application/json;charset=UTF-8
   -> {"status": ..., "feedbacks": [{id, title, total_comments, users, url, updates:[{type}]}]}
 ```
 
-All 117 papers were submitted twice, once by DOI and once by PubMed ID, in batches of 20 at 2.5-second intervals. Every batch returned an empty `feedbacks` array.
+All 118 papers were submitted twice, once by DOI and once by PubMed ID, in batches of 20 at 2.5-second intervals. Every batch returned an empty `feedbacks` array.
 
 ### Why the zero is trustworthy
 
 PubPeer emits a record only for publications that have activity, so an empty response is ambiguous between *no comments* and *lookup failed*. The ambiguity was resolved with a positive control placed **inside a full-size batch**: 19 of our DOIs plus one known heavily-commented retraction.
 
 | Submitted | Feedbacks returned | Control found | Any of ours found |
-| --------- | ------------------ | ------------- | ----------------- |
-| 20 DOIs   | 1                  | yes           | no                |
+|---|---|---|---|
+| 20 DOIs | 1 | yes | no |
 
 The control came back with **34 comments** and update types `CORRECTED`, `ERRATUM`, `EXPRESSION OF CONCERN`, `RETRACTED`, naming commenters including Elisabeth Bik, Andrew Gelman and Nicholas J. L. Brown. The batched request path therefore works, and the absence of our papers is a real negative.
 
@@ -290,9 +290,9 @@ The control came back with **34 comments** and update types `CORRECTED`, `ERRATU
 
 ## Check 10 — Replication attempts
 
-**0 of 117 papers appear in any replication database available to us.**
+**0 of 118 papers appear in any replication database available to us.**
 
-FORRT's FLoRA dataset (FORRT Library of Reproduction and Replication Attempts, `forrtproject/fred-data`, `output/flora.csv`, 2,882 replication pairs over 2,584 distinct original studies) was matched against all 117 papers three ways: our DOIs as an original study, our DOIs as a replication study, and a DOI-independent title match. All three returned zero.
+FORRT's FLoRA dataset (FORRT Library of Reproduction and Replication Attempts, `forrtproject/fred-data`, `output/flora.csv`, 2,882 replication pairs over 2,584 distinct original studies) was matched against all 118 papers three ways: our DOIs as an original study, our DOIs as a replication study, and a DOI-independent title match. All three returned zero.
 
 The reason is scope, not coverage. FLoRA's top original-study journals are *Psychological Science* (254 pairs), *Journal of Personality and Social Psychology* (160), PNAS (84), *Science* (71) and *Cognition* (51). Searching all 2,882 rows for malaria, *Plasmodium*, antimalarial or parasite vocabulary returns 10 rows, none of them on drug resistance.
 

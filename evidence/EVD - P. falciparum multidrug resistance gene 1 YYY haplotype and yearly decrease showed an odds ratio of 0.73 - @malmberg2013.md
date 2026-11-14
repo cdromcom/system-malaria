@@ -12,7 +12,7 @@ tags:
   - "year/2013"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 421ed45c-4d8f-4636-9245-c72cc78ad87b
+nodeID: 1daafaf4-f171-4e16-bce9-2c38d1347f38
 title: P. falciparum multidrug resistance gene 1 YYY haplotype and yearly decrease showed an odds ratio of 0.73 - @malmberg2013
 ---
 

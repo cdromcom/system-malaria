@@ -7,7 +7,7 @@ tags:
   - "integrity/commented-on"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 693de487-dedf-49d8-88ca-e10ec840a553
+nodeID: 2a77a2d4-396e-49af-954f-45a3251b7cdd
 title: The A581G Mutation in the Gene Encoding Plasmodium falciparum Dihydropteroate Synthetase Reduces the Effectiveness of Sulfadoxine-Pyrimethamine Preventive Therapy in
 ---
 

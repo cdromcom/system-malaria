@@ -12,7 +12,7 @@ tags:
   - "year/2023"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 99598119-1f7b-4c0d-8796-85d232d2bd00
+nodeID: 31355a72-a4b5-43a3-8930-a95d7bd95dff
 title: prevalence of Plasmodium falciparum dihydropteroate synthetase gene differed by 18 between group that took intermittent preventive treatment with and group that did not take intermittent (mean difference unstandardized) - @cohen2023
 ---
 

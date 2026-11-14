@@ -11,7 +11,7 @@ tags:
   - "consistency/contested"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 8c1aa7f6-699b-4f8c-a75e-224b74c2d5fd
+nodeID: e708d48a-b877-4f54-b513-43573f973a31
 title: Resistance-mutation prevalence in PfDHPS rises with drug pressure and over time across the settings studied — but the published evidence is contested
 ---
 

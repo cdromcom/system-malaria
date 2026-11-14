@@ -13,7 +13,7 @@ tags:
   - "year/2018"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 9df385be-aabb-427f-b93f-6768511cc255
+nodeID: 0b51d0d5-a43a-498a-84f1-c5e388722a11
 title: Pfmdr1 D1246 allele carried 1.02 times the AL (artemether-lumefantrine) treatment failure (relative risk ratio) - @baraka2018
 ---
 

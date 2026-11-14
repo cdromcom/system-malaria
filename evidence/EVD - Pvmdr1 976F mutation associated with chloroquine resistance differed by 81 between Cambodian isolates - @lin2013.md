@@ -12,7 +12,7 @@ tags:
   - "year/2013"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 9f96cc1e-81ee-4cec-af70-4fd6a7e6d57f
+nodeID: 2e0b2b71-ac22-4dde-858c-5719b6fa88d1
 title: Pvmdr1 976F mutation associated with chloroquine resistance differed by 81 between Cambodian isolates and Thai isolates (mean difference unstandardized) - @lin2013
 ---
 

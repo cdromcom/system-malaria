@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: d7e2e5d5-6c98-42f1-aafa-76c868e75359
+nodeID: 432240ad-de6d-433b-9e80-010ac7deadc8
 title: Polymorphism of Plasmodium falciparum Na(+) H(+) exchanger is indicative of a low in vitro quinine susceptibility in isolates from Viet Nam
 ---
 

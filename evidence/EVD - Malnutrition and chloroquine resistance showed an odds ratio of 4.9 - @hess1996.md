@@ -12,7 +12,7 @@ tags:
   - "year/1996"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 519aaf09-8b02-4272-9227-ef2047dcfe67
+nodeID: fe056e0f-0f56-42a1-aa67-543fa06045ab
 title: Malnutrition and chloroquine resistance showed an odds ratio of 4.9 - @hess1996
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "year/2009"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 63a218b8-91e5-43f4-80d9-c6e1c8dd65b2
+nodeID: 0b0eb1dd-27de-443a-8b47-6902fc4218ba
 title: Prevalence of the K76T pfcrt mutation differed by 9 between Karonga, Malawi and Blantyre, Malawi (mean difference unstandardized) - @bridges2009
 ---
 

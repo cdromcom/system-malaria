@@ -12,7 +12,7 @@ tags:
   - "year/2005"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 102720bb-97ec-48c9-903c-c9c4c5b854b7
+nodeID: 977ae740-11e1-4ff2-aab1-8dfbeffc3778
 title: chloroquine resistance and amodiaquine resistance showed a pearson r of 0.93 - @caramello2005
 ---
 

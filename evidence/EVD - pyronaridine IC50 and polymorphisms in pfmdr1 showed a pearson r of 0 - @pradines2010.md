@@ -13,7 +13,7 @@ tags:
   - "year/2010"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: c91c3cb1-e06a-4b99-a4fc-e451a5c9290e
+nodeID: 52e6afac-ccaf-44da-a611-23426e8322f5
 title: pyronaridine IC50 and polymorphisms in pfmdr1 showed a pearson r of 0 - @pradines2010
 ---
 

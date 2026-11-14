@@ -13,7 +13,7 @@ tags:
   - "year/2013"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 2048539a-9329-4772-a47e-3db880cce6a5
+nodeID: 717d3143-f55c-4a56-b44a-68d437af74bc
 title: Prevalence of the dhfr59Arg mutant-type (2005) vs. Prevalence of and Prevalence of sulfadoxine-pyrimethamine resistance-associated showed a mean difference unstandardized of 23.9 - @hailemeskel2013
 ---
 

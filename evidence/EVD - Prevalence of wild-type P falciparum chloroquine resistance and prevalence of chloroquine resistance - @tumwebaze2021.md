@@ -12,7 +12,7 @@ tags:
   - "year/2021"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: ce6c87fd-f653-403d-ac5a-3ffe09e57117
+nodeID: 811e7260-c474-4f8e-8977-7a062cfb077a
 title: Prevalence of wild-type P falciparum chloroquine resistance and prevalence of chloroquine resistance transporter (PfCRT) Lys76Thr showed a mean difference unstandardized of -80 - @tumwebaze2021
 ---
 

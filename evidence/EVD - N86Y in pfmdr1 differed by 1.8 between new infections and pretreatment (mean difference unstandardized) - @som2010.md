@@ -12,7 +12,7 @@ tags:
   - "year/2010"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 2c6bfe07-dc56-4754-95c8-2ec51f639019
+nodeID: d9eedac5-5846-4d25-8162-a40edfb79c5d
 title: N86Y in pfmdr1 differed by 1.8 between new infections and pretreatment (mean difference unstandardized) - @som2010
 ---
 

@@ -11,7 +11,7 @@ tags:
   - "consistency/consistent"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: f7d0bf72-2215-43ca-8a18-df43a1044e6c
+nodeID: ce959b8a-81d0-400e-b113-02ceef2dfe43
 title: Mutations in PfCRT are associated with reduced parasite sensitivity to antimalarial drugs in laboratory testing, consistently across studies
 ---
 

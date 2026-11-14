@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 68504dfe-1840-4c6f-a165-7863b9141cca
+nodeID: 5eb3aec3-508c-4306-af1e-8993c4cdffaa
 title: Molecular and pharmacological determinants of the therapeutic response to artemether-lumefantrine in multidrug-resistant Plasmodium falciparum malaria
 ---
 

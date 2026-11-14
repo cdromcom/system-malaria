@@ -14,7 +14,7 @@ tags:
   - "year/2010"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: a5883fc1-5ffe-43c7-b14d-2b994f3f4890
+nodeID: 584c3f3a-1434-435a-bcc3-40d1a8d4dc8a
 title: pfcrt, pfmdr1 and pfdhfr and Osogbo and Lafia showed a relative risk ratio of 1.08 - @ojurongbe2010
 ---
 

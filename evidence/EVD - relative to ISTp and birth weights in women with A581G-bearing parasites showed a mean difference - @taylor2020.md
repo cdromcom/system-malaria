@@ -12,7 +12,7 @@ tags:
   - "year/2020"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: fcf7ea13-2880-4b09-884e-ee67d4212e0f
+nodeID: ce3850cb-a4d8-4331-b30d-4afd35b2f61b
 title: relative to ISTp and birth weights in women with A581G-bearing parasites showed a mean difference unstandardized of 192 - @taylor2020
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "year/2015"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 26bebce8-e5f1-4f7e-b1a4-86e0fbcc20bf
+nodeID: ddafdb78-a81d-47e1-82f1-d1d5241050c2
 title: Presence of K540 E in dihydropteroate synthase (DHPS) and Patent infection in placental blood showed a prevalence ratio of 3.28 - @gutman2015
 ---
 

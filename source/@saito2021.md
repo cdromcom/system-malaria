@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 9311cce5-16c0-4812-9e77-7448414c6bed
+nodeID: 937d25ff-8e6b-4ce7-ae71-e8f2e64b24f4
 title: A randomized controlled trial of dihydroartemisinin-piperaquine, artesunate-mefloquine and extended artemether-lumefantrine treatments for malaria in pregnancy on the
 ---
 

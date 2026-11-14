@@ -12,7 +12,7 @@ tags:
   - "year/2008"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: dec834f6-aed8-462b-a3e6-9d32f5901042
+nodeID: 3319b0f3-9fc0-48c7-888c-f1d2e2ef8e38
 title: pfmdr1 86Y-184Y-1246Y allele frequency differed by -43.3 between West African isolates and East African isolates (mean difference unstandardized) - @dippmann2008
 ---
 

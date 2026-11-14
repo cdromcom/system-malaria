@@ -12,7 +12,7 @@ tags:
   - "year/2020"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 6a911362-e8fe-49f7-9214-c57e7448797b
+nodeID: d84808bb-0053-4ec9-a6d5-0d64fc1fd74c
 title: PfMDR1 N86Y mutations and severe malaria showed an odds ratio of 0.21 - @cuu2020
 ---
 

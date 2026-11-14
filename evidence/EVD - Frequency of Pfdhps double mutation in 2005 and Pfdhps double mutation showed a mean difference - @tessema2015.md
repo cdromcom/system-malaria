@@ -12,7 +12,7 @@ tags:
   - "year/2015"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 130e8b0a-df2f-4db5-8f11-04807a9bace3
+nodeID: 8737c31b-01c2-49f4-80a3-28e66b82c2b8
 title: Frequency of Pfdhps double mutation in 2005 and Pfdhps double mutation showed a mean difference unstandardized of 13.8 - @tessema2015
 ---
 

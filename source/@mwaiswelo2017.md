@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 69383591-65f0-4e78-a1cf-453b978b3159
+nodeID: 6006d6f6-ef01-4529-8a84-29452e1d03fa
 title: Sustained High Cure Rate of Artemether-Lumefantrine against Uncomplicated Plasmodium falciparum Malaria after 8 Years of Its Wide-Scale Use in Bagamoyo District
 ---
 

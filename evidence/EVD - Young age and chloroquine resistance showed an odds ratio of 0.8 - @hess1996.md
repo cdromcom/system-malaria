@@ -12,7 +12,7 @@ tags:
   - "year/1996"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 4fc6b3ff-dcba-47c5-9e04-31e11cacb3e2
+nodeID: 1ad81017-33c7-4ea5-b61a-89f76b22fdf6
 title: Young age and chloroquine resistance showed an odds ratio of 0.8 - @hess1996
 ---
 

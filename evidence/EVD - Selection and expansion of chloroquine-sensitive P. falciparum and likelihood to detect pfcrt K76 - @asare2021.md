@@ -12,7 +12,7 @@ tags:
   - "year/2021"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 0471b355-c7ea-4912-b322-000167c431be
+nodeID: 92ae5777-7182-45e2-b99b-d959adc2feaa
 title: Selection and expansion of chloroquine-sensitive P. falciparum and likelihood to detect pfcrt K76 showed an odds ratio of 7.11 - @asare2021
 ---
 

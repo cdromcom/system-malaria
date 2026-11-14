@@ -12,7 +12,7 @@ tags:
   - "year/2013"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 148b4938-feaa-46bc-af5e-72d04d46cb99
+nodeID: aeb9007d-be8a-4bbf-9bb3-cbe714bcc195
 title: P. falciparum multidrug resistance gene 1 Y184F and yearly increase of P. falciparum multidrug resistance gene 1 Y184F showed an odds ratio of 1.17 - @malmberg2013
 ---
 

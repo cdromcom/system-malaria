@@ -12,7 +12,7 @@ tags:
   - "year/2015"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: aafff952-09ac-4a8d-94dc-dd3690ea3865
+nodeID: 2cafcc8c-d47f-447a-810b-3b828806e23c
 title: Proportion of isolates with at least a triple Pfdhfr mutation differed by 57.7 between Pregnant women in 2011 (after IPTp-SP (sulfadoxine-pyrimethamine) implementation) and Pregnant women in 2005 (mean difference unstandardized) - @bouyouakotet2015
 ---
 

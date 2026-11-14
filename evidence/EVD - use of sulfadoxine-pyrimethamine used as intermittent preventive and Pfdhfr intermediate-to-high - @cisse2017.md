@@ -12,7 +12,7 @@ tags:
   - "year/2017"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 52019db7-b3c4-4f51-b649-c697bbe6c4ba
+nodeID: b413e2a1-5c1a-4ba0-9b8f-54cac9872aa3
 title: use of sulfadoxine-pyrimethamine used as intermittent preventive and Pfdhfr intermediate-to-high resistance showed an odds ratio of 3.45 - @cisse2017
 ---
 

@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: ac7dd17f-3c42-40de-9fea-6f8c34e31ec7
+nodeID: e5975552-2b3b-4d9b-a8ba-ff44e893d0cf
 title: Recent uptake of intermittent preventive treatment during pregnancy with sulfadoxine-pyrimethamine is associated with increased prevalence of Pfdhfr mutations in
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "year/2011"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: aee0ce3e-cf2d-4c93-8b0b-dccc75bea146
+nodeID: e24f4210-7beb-4885-8d56-e4ac7b85cb3b
 title: quinine susceptibility differed by 329 between isolates with one NHNDNHNNDDD repeat in the pfnhe1 microsatellite and isolates with two NHNDNHNNDDD repeats in (mean difference unstandardized) - @sinou2011
 ---
 

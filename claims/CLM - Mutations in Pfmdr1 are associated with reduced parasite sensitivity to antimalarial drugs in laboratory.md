@@ -11,7 +11,7 @@ tags:
   - "consistency/contested"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 8f4491b9-b7dc-4f52-8bf3-54d4b141d5e2
+nodeID: cc77f4b8-f185-4dba-a689-0e0b50c69de2
 title: Mutations in Pfmdr1 are associated with reduced parasite sensitivity to antimalarial drugs in laboratory testing — but the published evidence is contested
 ---
 

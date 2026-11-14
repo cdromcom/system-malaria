@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 4abacf06-897d-4851-833f-aed439f8f49d
+nodeID: ff4cafe8-9842-4cf6-9d8f-862cf5f4c938
 title: Resistance to antimalarials in Southeast Asia and genetic polymorphisms in pfmdr1
 ---
 

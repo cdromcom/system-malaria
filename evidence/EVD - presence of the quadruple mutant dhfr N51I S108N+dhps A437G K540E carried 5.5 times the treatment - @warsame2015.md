@@ -14,7 +14,7 @@ tags:
   - "year/2015"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 78ca48c8-1443-44a9-a26b-1964f50a3f43
+nodeID: f6a4df38-f041-4ad8-bb62-d35a8e189ad0
 title: presence of the quadruple mutant dhfr N51I S108N+dhps A437G K540E carried 5.5 times the treatment failure (among the study participants) (odds ratio) - @warsame2015
 ---
 

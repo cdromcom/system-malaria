@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 0fb1b57f-cd14-44e8-99f3-c9c341a67274
+nodeID: 30ada74e-9429-4cce-9238-34492d1dd12a
 title: Changes in the treatment responses to artesunate-mefloquine on the northwestern border of Thailand during 13 years of continuous deployment
 ---
 

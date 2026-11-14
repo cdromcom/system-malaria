@@ -12,7 +12,7 @@ tags:
   - "year/2018"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: b73430af-6fa5-4219-8a18-1c7c56b88107
+nodeID: 356c860c-ac2b-4185-90e3-64e10ed3617f
 title: k13 (Pfkelch13) gene mutation and artemisinin resistance phenotype showed an odds ratio of 1.84 - @dong2018
 ---
 

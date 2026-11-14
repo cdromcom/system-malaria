@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: f22c625c-0eb7-4535-aec0-0069656416ac
+nodeID: 156aa7ac-8314-4357-bd16-23992b19752e
 title: In Vitro Sensitivity of Pyronaridine in Thai Isolates of Plasmodium falciparum
 ---
 

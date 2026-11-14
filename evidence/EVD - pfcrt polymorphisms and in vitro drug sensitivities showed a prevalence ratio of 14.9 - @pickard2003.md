@@ -13,7 +13,7 @@ tags:
   - "year/2003"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 6dc213c8-6cf0-48ef-b8e3-0fccf538cf09
+nodeID: e465d7ea-6886-424d-ad0a-9628ebd4f103
 title: pfcrt polymorphisms and in vitro drug sensitivities showed a prevalence ratio of 14.9 - @pickard2003
 ---
 

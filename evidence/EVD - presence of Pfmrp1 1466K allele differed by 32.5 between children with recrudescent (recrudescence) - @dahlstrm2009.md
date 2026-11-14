@@ -13,7 +13,7 @@ tags:
   - "year/2009"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: ad5516db-1151-4aaa-bfab-38a522437dc3
+nodeID: c4f40dfa-a2aa-4f27-ba33-55fb3f98458b
 title: presence of Pfmrp1 1466K allele differed by 32.5 between children with recrudescent (recrudescence) infections and baseline samples from children with acute (mean difference unstandardized) - @dahlstrm2009
 ---
 

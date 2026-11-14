@@ -7,7 +7,7 @@ tags:
   - "integrity/commented-on"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 459357a4-71fb-4489-8c69-e044f9bf1586
+nodeID: ab3b7e2d-1a9b-47c8-9eec-9dd6cf2a3622
 title: Increasing Prevalence of Artemisinin-Resistant HRP2-Negative Malaria in Eritrea
 ---
 

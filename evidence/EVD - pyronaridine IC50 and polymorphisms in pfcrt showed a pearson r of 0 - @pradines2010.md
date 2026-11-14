@@ -13,7 +13,7 @@ tags:
   - "year/2010"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: ffa23f13-e049-4723-9a43-5977d8fda2bd
+nodeID: 57b0cd9a-bfc1-4583-ba7f-d00325340979
 title: pyronaridine IC50 and polymorphisms in pfcrt showed a pearson r of 0 - @pradines2010
 ---
 

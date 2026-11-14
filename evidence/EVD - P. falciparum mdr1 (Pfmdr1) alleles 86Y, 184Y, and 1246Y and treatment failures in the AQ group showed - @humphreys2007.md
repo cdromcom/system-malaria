@@ -13,7 +13,7 @@ tags:
   - "year/2007"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: ff09a162-7fff-459e-b210-183a696106c7
+nodeID: 59015f7b-652a-4fb9-8ca5-77bbf0d4db5c
 title: P. falciparum mdr1 (Pfmdr1) alleles 86Y, 184Y, and 1246Y and treatment failures in the AQ group showed an odds ratio of 33.2 - @humphreys2007
 ---
 

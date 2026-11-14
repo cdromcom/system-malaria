@@ -8,7 +8,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: f11b6713-bff4-4067-b293-f430787416d4
+nodeID: 6ef3d2be-829c-4f2b-b476-93af4a044c42
 title: Effects of point mutations in Plasmodium falciparum dihydrofolate reductase and dihydropterate synthase genes on clinical outcomes and in vitro susceptibility to
 ---
 

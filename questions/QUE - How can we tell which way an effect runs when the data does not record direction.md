@@ -7,7 +7,7 @@ tags:
   - "method/direction"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: a627e572-ce07-459e-baf5-cb542d45a214
+nodeID: 2f7ac183-6a02-4699-8de4-1d38a0cdfb8b
 title: How can we tell which way an effect runs when the data does not record a direction?
 ---
 

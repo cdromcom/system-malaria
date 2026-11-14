@@ -12,7 +12,7 @@ tags:
   - "year/2017"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 4cc1db94-c04a-41d3-b01c-d0a055d4b3b3
+nodeID: 3a4a64d9-ad3b-4beb-8522-7c71f17e2573
 title: Prevalence of mutations at pfmdr1 N86Y differed by 37.2 between Dihydroartemisinin-piperaquine and Sulfadoxine-pyrimethamine (mean difference unstandardized) - @conrad2017
 ---
 

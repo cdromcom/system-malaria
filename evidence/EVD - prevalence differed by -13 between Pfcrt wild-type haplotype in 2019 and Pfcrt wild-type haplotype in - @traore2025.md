@@ -12,7 +12,7 @@ tags:
   - "year/2025"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 11cb3a8a-67a2-45c4-a8ef-888050a3b914
+nodeID: 2d3ab752-89e6-46a8-8edd-b84725a22690
 title: prevalence differed by -13 between Pfcrt wild-type haplotype in 2019 and Pfcrt wild-type haplotype in 2020 (mean difference unstandardized) - @traore2025
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "year/2012"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 7055e8eb-1f23-48c2-a520-a0df11948dae
+nodeID: 0bc967aa-0b8e-4f27-8ed7-b2424336e407
 title: pfmdr1 copy number and number of DNNND repeats showed a mean difference unstandardized of 2 - @poyomtip2012
 ---
 

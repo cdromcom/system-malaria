@@ -12,7 +12,7 @@ tags:
   - "year/2017"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: a9541d03-3e61-475a-9623-b06c335b256f
+nodeID: 5a189b54-eb26-467d-ae50-c70ab9165260
 title: prevalence of wild type pfcrt K76 variant differed by 1.3 between post-artemether-lumefantrine P. falciparum isolates and baseline P. falciparum isolates (mean difference unstandardized) - @dama2017
 ---
 

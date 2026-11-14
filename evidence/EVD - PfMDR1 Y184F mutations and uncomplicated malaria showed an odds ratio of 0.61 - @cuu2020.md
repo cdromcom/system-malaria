@@ -12,7 +12,7 @@ tags:
   - "year/2020"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 2a5fbd17-5e93-408d-9b84-8848e56a75fd
+nodeID: e1a9a33d-72c5-43d9-bda9-16a19e007d4c
 title: PfMDR1 Y184F mutations and uncomplicated malaria showed an odds ratio of 0.61 - @cuu2020
 ---
 

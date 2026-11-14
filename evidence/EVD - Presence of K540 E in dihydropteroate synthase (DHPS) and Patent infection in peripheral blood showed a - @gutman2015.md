@@ -12,7 +12,7 @@ tags:
   - "year/2015"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: c115b37c-bed2-442b-8e49-fb74976d3923
+nodeID: 41593f78-64b9-4f33-b0ee-1fb56015259f
 title: Presence of K540 E in dihydropteroate synthase (DHPS) and Patent infection in peripheral blood showed a prevalence ratio of 2.76 - @gutman2015
 ---
 

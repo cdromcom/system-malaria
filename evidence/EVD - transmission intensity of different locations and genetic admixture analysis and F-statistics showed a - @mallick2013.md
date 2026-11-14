@@ -12,7 +12,7 @@ tags:
   - "year/2013"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: b941ef80-22ca-4718-b840-e86ebcc3af64
+nodeID: e995bc45-9961-40b7-8641-85710fbb8ae6
 title: transmission intensity of different locations and genetic admixture analysis and F-statistics showed a pearson r of 0.49 - @mallick2013
 ---
 

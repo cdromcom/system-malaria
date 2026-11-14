@@ -12,7 +12,7 @@ tags:
   - "year/2009"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 44ad22eb-5ae2-49ae-a309-8a1aba272807
+nodeID: 239117e5-d738-4d1d-96f1-0ebf6f785ecd
 title: Proportion of infections caused by parasites with increased pfmdr1 and Proportion of infections caused by parasites with increased pfmdr1 showed a mean difference unstandardized of -23 - @carrara2009
 ---
 

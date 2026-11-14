@@ -12,7 +12,7 @@ tags:
   - "year/2011"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 4f8347e8-0001-426f-9b15-fecac2e4ca8c
+nodeID: e3af0ca7-c7da-4abd-88ee-0790d5c9f21a
 title: prevalence of pfcrt T76 mutation differed by 18.7 between coastal areas foothills and highland areas (mean difference unstandardized) - @almekhlafi2011
 ---
 

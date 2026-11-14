@@ -11,7 +11,7 @@ tags:
   - "consistency/consistent"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: e8fa769c-461c-47f0-b973-c79c63f14384
+nodeID: bb773729-64cc-4735-8283-d79d7df448b1
 title: Resistance-mutation prevalence in Pfkelch13 rises with drug pressure and over time across the settings studied, consistently across studies
 ---
 

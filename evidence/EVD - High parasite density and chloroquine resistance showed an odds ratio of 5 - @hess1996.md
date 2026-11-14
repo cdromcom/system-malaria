@@ -12,7 +12,7 @@ tags:
   - "year/1996"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: c734d582-59be-40ef-83a5-ea332c816653
+nodeID: 4882c486-32e0-4a38-8b86-8425b41043cd
 title: High parasite density and chloroquine resistance showed an odds ratio of 5 - @hess1996
 ---
 

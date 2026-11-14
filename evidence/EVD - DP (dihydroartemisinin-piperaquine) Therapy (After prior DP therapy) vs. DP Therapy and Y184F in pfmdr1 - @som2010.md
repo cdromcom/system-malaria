@@ -12,7 +12,7 @@ tags:
   - "year/2010"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 3b1b8317-c59b-4d3a-a4c5-fd3dd12d9b2f
+nodeID: 2a4e12aa-cfd4-42a3-86c8-4a581d2b083f
 title: DP (dihydroartemisinin-piperaquine) Therapy (After prior DP therapy) vs. DP Therapy and Y184F in pfmdr1 showed a mean difference unstandardized of -5.4 - @som2010
 ---
 

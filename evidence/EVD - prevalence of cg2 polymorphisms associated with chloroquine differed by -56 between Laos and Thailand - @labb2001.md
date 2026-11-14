@@ -12,7 +12,7 @@ tags:
   - "year/2001"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 5270de25-b327-4232-9e82-8cb0a176f158
+nodeID: cde9e403-2273-42c1-8f2f-29389ab3159f
 title: prevalence of cg2 polymorphisms associated with chloroquine differed by -56 between Laos and Thailand (mean difference unstandardized) - @labb2001
 ---
 

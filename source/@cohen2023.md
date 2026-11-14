@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 710ef008-d930-4abe-850d-ed8a61b20811
+nodeID: d102ab22-b226-4f76-8147-0130d10a97b0
 title: Effect of sulfadoxine-pyrimethamine chemoprophylaxis in pregnant women on selection of the new P. falciparum dhps quintuple mutant carrying the I431V mutation
 ---
 

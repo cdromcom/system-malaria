@@ -12,7 +12,7 @@ tags:
   - "year/2007"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 134e96ef-4397-4e4b-a7f9-e6bf62a7de04
+nodeID: 5884eb8c-2b39-49e7-b7a0-f109ad8939f2
 title: Plasmodium falciparum chloroquine resistance transporter K76T and chloroquine resistance in the blood samples of patients showed an odds ratio of 36 - @pati2007
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "year/2018"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: f7b48b73-8069-467b-b2ae-8658255fdb9b
+nodeID: d84876c0-0563-4e89-a440-295b258261de
 title: C580Y and C580 infections was associated with an increase of 0.8 in time to clearance (among P. falciparum infections treated with ARTs) (mean difference unstandardized) - @s2018
 ---
 

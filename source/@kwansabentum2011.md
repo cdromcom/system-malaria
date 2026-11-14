@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: b0ec833d-fb59-47e3-a5b1-e752b41aab47
+nodeID: 2a96c567-f23d-46dd-84d6-0061e75abeaf
 title: Plasmodium falciparum isolates from southern Ghana exhibit polymorphisms in the SERCA-type PfATPase6 though sensitive to artesunate in vitro
 ---
 

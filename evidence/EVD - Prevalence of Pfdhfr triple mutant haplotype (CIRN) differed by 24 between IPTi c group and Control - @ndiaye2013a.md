@@ -12,7 +12,7 @@ tags:
   - "year/2013"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: fddd9382-2877-41e6-ac9f-13f9e0540053
+nodeID: 9b2514d4-60d2-4319-ae0e-3f9281d4ed3c
 title: Prevalence of Pfdhfr triple mutant haplotype (CIRN) differed by 24 between IPTi c group and Control group (mean difference unstandardized) - @ndiaye2013a
 ---
 

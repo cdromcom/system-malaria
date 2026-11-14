@@ -13,7 +13,7 @@ tags:
   - "year/2002"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 0c214530-fb9c-434b-aa09-fce64b7bb5ed
+nodeID: e4c8c31d-151c-4d23-90ec-2660b55e073e
 title: mutant genotype at codon 76 of the pfcrt gene (T76) was associated with an increase of 0.14 in clinical (early and late treatment failure ETF + LTF) (pearson r) - @talisuna2002
 ---
 

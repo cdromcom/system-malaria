@@ -12,7 +12,7 @@ tags:
   - "year/2011"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 99278b80-3958-4bd8-b119-1b407a6548eb
+nodeID: 9e7103ba-cd91-44b6-8ab7-0798000fd897
 title: Chloroquine resistance (treatment failure) and parasite reduction ratio showed a mean difference unstandardized of 12.6 - @ketema2011
 ---
 

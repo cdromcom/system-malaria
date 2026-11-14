@@ -12,7 +12,7 @@ tags:
   - "year/2015"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: d3a70f64-12fd-4e1a-87b5-c082a1ac4aa0
+nodeID: 3cafdf14-195f-4b53-a4bd-4aa2c211f0a2
 title: prevalence of pfmdr 1 86 T mutation differed by 7.8 between Post-2008 9 anti-malarial treatment intervention and Pre-2008 9 anti-malarial treatment (mean difference unstandardized) - @heuchert2015
 ---
 

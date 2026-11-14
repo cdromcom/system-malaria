@@ -12,7 +12,7 @@ tags:
   - "year/2020"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 5fb3872f-f4ae-42cf-929b-ce16dac7c86b
+nodeID: 8317b93f-32fc-4fb2-b556-7e0decb3e0b5
 title: three or more IPTp-SP (sulfadoxine-pyrimethamine) doses and Plasmodium falciparum multidrug resistant gene 1 86Y mutant allele showed an adjusted odds ratio of 0.25 - @natama2020
 ---
 

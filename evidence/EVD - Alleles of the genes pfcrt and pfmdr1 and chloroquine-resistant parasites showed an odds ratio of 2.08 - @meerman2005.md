@@ -13,7 +13,7 @@ tags:
   - "year/2005"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 8634ed44-f2b6-4cd1-a2ac-b96c47975de3
+nodeID: f95cd1d5-d01e-4241-bd34-b2a1917cd7f3
 title: Alleles of the genes pfcrt and pfmdr1 and chloroquine-resistant parasites showed an odds ratio of 2.08 - @meerman2005
 ---
 

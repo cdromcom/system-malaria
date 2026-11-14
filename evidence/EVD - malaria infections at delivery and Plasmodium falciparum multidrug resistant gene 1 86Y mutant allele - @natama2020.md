@@ -12,7 +12,7 @@ tags:
   - "year/2020"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 8ba9f38d-064a-4f45-87e1-426b9c39c1a3
+nodeID: 6f55affb-7167-4894-a276-2257c93f9f00
 title: malaria infections at delivery and Plasmodium falciparum multidrug resistant gene 1 86Y mutant allele showed an adjusted odds ratio of 5.5 - @natama2020
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "year/2015"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 3fff8021-38ee-4758-bcef-130dbf96f75c
+nodeID: 2a7b7627-6841-4b87-91d6-03a044803b34
 title: proportion of samples with the P. falciparum crt wild-type (CVMNK) differed by 31.8 between Year of Study (2013) and Year of Study (2010 (mean difference unstandardized) - @lucchi2015
 ---
 

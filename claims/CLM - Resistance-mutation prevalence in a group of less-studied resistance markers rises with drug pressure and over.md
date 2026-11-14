@@ -11,7 +11,7 @@ tags:
   - "consistency/contested"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 15d02609-33fd-4426-b123-e75c188a3762
+nodeID: 1a9699bd-4a96-4861-8a3d-15f75a38cec7
 title: Resistance-mutation prevalence in a group of less-studied resistance markers rises with drug pressure and over time across the settings studied — but the published evidence is contested
 ---
 

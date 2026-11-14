@@ -12,7 +12,7 @@ tags:
   - "year/2011"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: cbac48bc-b27d-4b5f-952d-5d95d445db79
+nodeID: b4031ac9-6fea-4184-9d51-29cedb8c6404
 title: Increase in frequency of the Pfmdr-1 SNP 184F and introduction of artemether-lumefantrine showed an odds ratio of 1.42 - @thomsen2011
 ---
 

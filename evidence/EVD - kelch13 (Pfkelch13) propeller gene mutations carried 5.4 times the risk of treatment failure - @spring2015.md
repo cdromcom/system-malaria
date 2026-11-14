@@ -12,7 +12,7 @@ tags:
   - "year/2015"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 6d78072e-794f-42f2-9d23-aa0c7ffc4e0b
+nodeID: 582439a2-e4d4-4ce8-93c9-c7acfd31fc55
 title: kelch13 (Pfkelch13) propeller gene mutations carried 5.4 times the risk of treatment failure (hazard ratio) - @spring2015
 ---
 

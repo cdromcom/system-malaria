@@ -13,7 +13,7 @@ tags:
   - "year/2009"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: d7a603fb-8231-4acd-939c-fd8f797687fd
+nodeID: b4232f95-d3a6-4cb6-bb5a-c9cbbe4d220b
 title: P. falciparum parasite density and proportion of chloroquine resistance associated haplotypes pfcrt 76T showed an odds ratio of 1.05 - @ursing2009
 ---
 

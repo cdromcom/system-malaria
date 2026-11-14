@@ -13,7 +13,7 @@ tags:
   - "year/2007"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 2c579751-db8e-4014-a62b-c665c4c489cf
+nodeID: 153c2974-d1bd-4c2d-9e53-2e22ebe965fa
 title: insecticide-treated materials carried 1.21 times the rates of adequate clinical response among children carrying (odds ratio) - @diallo2007
 ---
 

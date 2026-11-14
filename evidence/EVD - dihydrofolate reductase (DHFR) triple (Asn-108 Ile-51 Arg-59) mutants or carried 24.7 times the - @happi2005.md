@@ -13,7 +13,7 @@ tags:
   - "year/2005"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 20001f66-188b-4f01-870a-e68daebe1353
+nodeID: c5e70ce3-c937-4ab8-89d2-054170920e61
 title: dihydrofolate reductase (DHFR) triple (Asn-108 Ile-51 Arg-59) mutants or carried 24.7 times the sulfadoxine-pyrimethamine treatment failure in children aged less (odds ratio) - @happi2005
 ---
 

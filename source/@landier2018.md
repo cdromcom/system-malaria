@@ -7,7 +7,7 @@ tags:
   - "integrity/commented-on"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 40879bad-e4a3-4dda-89fe-48e035508513
+nodeID: 19f268b4-2c6f-4d3d-9ad2-afbe68a58e7f
 title: Effect of generalised access to early diagnosis and treatment and targeted mass drug administration on Plasmodium falciparum malaria in Eastern Myanmar an observational
 ---
 

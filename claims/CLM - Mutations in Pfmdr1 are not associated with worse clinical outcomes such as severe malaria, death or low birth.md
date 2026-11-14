@@ -11,7 +11,7 @@ tags:
   - "consistency/contested"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: b38a3d97-56d0-4231-8816-9d3767f565ba
+nodeID: 0f133437-678a-4bf6-a573-69604a7dfa46
 title: Mutations in Pfmdr1 are not associated with worse clinical outcomes such as severe malaria, death or low birth weight — but the published evidence is contested
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "year/2018"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 9b72f449-859e-437b-b346-8156db0b49b8
+nodeID: abe7bab3-d4cc-466f-98c7-e177a10eea7d
 title: pyronaridine sensitivity differed by 2.2 between parasites with pfmdr1 86Y allele and parasites with pfmdr1 N86 allele (mean difference unstandardized) - @mahotorn2018
 ---
 

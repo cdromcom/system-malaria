@@ -12,7 +12,7 @@ tags:
   - "year/2018"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 7a01950e-967a-4576-aafb-a603ff29c9a2
+nodeID: 3e78659a-b338-4fa7-a783-0c67220672ba
 title: Cycloguanil analogues with alkyl chain substituent and Plasmodium falciparum dihydrofolate reductase (DHFR) binding to R showed a pearson r of 0.941 - @inthajak2018
 ---
 

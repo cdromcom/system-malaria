@@ -13,7 +13,7 @@ tags:
   - "year/2010"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 63992620-8de9-43de-be60-e58050fa0dac
+nodeID: e2a44632-9538-4287-b074-32b6a2ab4523
 title: Pfmdr-1 86Y mutant codon and chloroquine treatment failures showed an odds ratio of 4.6 - @andriantsoanirina2010
 ---
 

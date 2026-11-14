@@ -12,7 +12,7 @@ tags:
   - "year/2017"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 7ba439b7-8c33-408c-8137-5c411e3b0a22
+nodeID: 1cfd367a-37c5-4128-93e5-efe0b2b067b9
 title: prevalence of pfmdr1 T1069 polymorphism differed by 27 between chloroquine village samples and other samples (mean difference unstandardized) - @jovel2017
 ---
 

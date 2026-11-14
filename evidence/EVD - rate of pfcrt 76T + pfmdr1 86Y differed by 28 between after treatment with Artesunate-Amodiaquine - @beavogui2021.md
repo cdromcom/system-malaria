@@ -13,7 +13,7 @@ tags:
   - "year/2021"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 7021ac1b-02d5-47c1-ba6c-178033ad8a2c
+nodeID: d147ba56-d8e3-4a0e-aaba-0c785b329e8e
 title: rate of pfcrt 76T + pfmdr1 86Y differed by 28 between after treatment with Artesunate-Amodiaquine (AS+AQ) and before treatment (mean difference unstandardized) - @beavogui2021
 ---
 

@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: a0a5a20e-7863-4afc-afb8-b5059f68e975
+nodeID: 727ec8ac-ddfd-477a-b49d-016ecec801a4
 title: Emerging implications of policies on malaria treatment genetic changes in the Pfmdr-1 gene affecting susceptibility to artemether-lumefantrine and artesunate-amodiaquine
 ---
 

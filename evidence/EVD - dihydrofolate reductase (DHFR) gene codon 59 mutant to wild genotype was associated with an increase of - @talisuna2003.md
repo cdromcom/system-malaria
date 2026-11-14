@@ -13,7 +13,7 @@ tags:
   - "year/2003"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 1d0baaf3-aa9f-4719-a4c5-7aba64823771
+nodeID: 37a5338d-3ce0-4ca4-9fbb-f4fa1e2753cf
 title: dihydrofolate reductase (DHFR) gene codon 59 mutant to wild genotype was associated with an increase of 0.73 in SP (sulfadoxine-pyrimethamine) treatment failure (pearson r) - @talisuna2003
 ---
 

@@ -11,7 +11,7 @@ tags:
   - "consistency/mostly-consistent"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 6a520b82-5756-4695-865b-cab8c4e5f48b
+nodeID: 4d30d18a-9bda-4499-973b-4cf265e73f54
 title: Mutations in Pfmdr1 are associated with higher rates of antimalarial treatment failure, though a minority of findings disagree
 ---
 

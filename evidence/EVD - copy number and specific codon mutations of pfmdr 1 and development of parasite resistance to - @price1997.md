@@ -12,7 +12,7 @@ tags:
   - "year/1997"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 4badca68-086f-4590-9933-993c1f49e461
+nodeID: cae3a19d-2d1e-4abd-9461-efe6bad157f2
 title: copy number and specific codon mutations of pfmdr 1 and development of parasite resistance to antimalarial drugs showed a coefficient of 0.58 - @price1997
 ---
 

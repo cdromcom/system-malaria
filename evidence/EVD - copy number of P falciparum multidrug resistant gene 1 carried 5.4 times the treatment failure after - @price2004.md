@@ -12,7 +12,7 @@ tags:
   - "year/2004"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 66a7cb6a-6b20-4f4e-ba11-42479f9c8289
+nodeID: 1fe5c17f-53d3-4022-89a5-4418e2caced4
 title: copy number of P falciparum multidrug resistant gene 1 carried 5.4 times the treatment failure after artesunate-mefloquine therapy (hazard ratio) - @price2004
 ---
 

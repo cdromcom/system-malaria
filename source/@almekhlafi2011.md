@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: ad41b57a-c2de-47a3-9f36-e2a347843fdd
+nodeID: 7db9f20d-d3fe-4155-a8b1-6b4ddbdeb050
 title: High frequency of Plasmodium falciparum chloroquine resistance marker (pfcrt T76 mutation) in Yemen an urgent need to re-examine malaria drug policy
 ---
 

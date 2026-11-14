@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: b674af65-c39c-48c5-b09b-3b3d9487a894
+nodeID: 4bdffca8-26a8-4f0b-b2af-7b8f662d7123
 title: HIV and placental infection modulate the appearance of drug-resistant Plasmodium falciparum in pregnant women who receive intermittent preventive treatment
 ---
 

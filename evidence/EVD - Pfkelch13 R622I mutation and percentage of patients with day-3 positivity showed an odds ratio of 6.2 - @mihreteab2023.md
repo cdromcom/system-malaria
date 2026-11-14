@@ -12,7 +12,7 @@ tags:
   - "year/2023"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 3012ac74-dffb-4d83-b22e-cc2b98733bd2
+nodeID: b6e1432e-e364-4e2b-a2ff-35efecebd912
 title: Pfkelch13 R622I mutation and percentage of patients with day-3 positivity showed an odds ratio of 6.2 - @mihreteab2023
 ---
 

@@ -8,7 +8,7 @@ tags:
   - "integrity/commented-on"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: baa523ce-2400-422d-bd51-d19b900461c8
+nodeID: 8a136bf6-5650-40d9-845a-6a74defffe4d
 title: A molecular marker for chloroquine-resistant falciparum malaria
 ---
 

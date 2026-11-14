@@ -13,7 +13,7 @@ tags:
   - "year/2015"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 16b50d5f-3173-4395-8dda-903bade8b294
+nodeID: d31d5400-a5f9-4a8e-a0e1-427e37d365d3
 title: artemisinin-resistant K13 (Pfkelch13) mutants carried 32 times the risk of recrudescence (relative risk ratio) - @duru2015
 ---
 

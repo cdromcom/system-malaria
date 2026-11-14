@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 60cc25f7-e805-42b5-839a-d6173e51cf8a
+nodeID: 82095503-2ef1-4335-9d67-0f1b5abde9dc
 title: Low level genotypic chloroquine resistance near Malawi's northern border with Tanzania
 ---
 

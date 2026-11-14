@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 6613996a-64a6-46c7-b6a3-ca50c612949b
+nodeID: 050d78a8-e7f2-4bce-a9c5-538ecd1fd847
 title: The F423Y mutation in the pfmdr2 gene and mutations N51I, C59R, and S108N in the pfdhfr gene are independently associated with pyrimethamine resistance in Plasmodium
 ---
 

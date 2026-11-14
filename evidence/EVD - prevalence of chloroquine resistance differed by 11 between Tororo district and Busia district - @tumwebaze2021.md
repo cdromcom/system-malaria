@@ -12,7 +12,7 @@ tags:
   - "year/2021"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 90417d7c-8592-4aba-a597-2ab12bf665e1
+nodeID: d2dc78ed-46a6-4e57-b5a7-1b50713d6e05
 title: prevalence of chloroquine resistance differed by 11 between Tororo district and Busia district (mean difference unstandardized) - @tumwebaze2021
 ---
 

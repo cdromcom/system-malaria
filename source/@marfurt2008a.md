@@ -8,7 +8,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: f3ea9dae-e8a3-445e-ba83-9afac8a7c447
+nodeID: 5bc47680-44a4-4e08-9428-4a72c761693f
 title: The usefulness of twenty-four molecular markers in predicting treatment outcome with combination therapy of amodiaquine plus sulphadoxine-pyrimethamine against
 ---
 

@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: c056b0db-5c06-4d26-8590-db92b5a7243c
+nodeID: 1619aa5e-5b6e-4070-babf-065c9c1c9cf2
 title: Polymorphism in PfMRP1 (Plasmodium falciparum multidrug resistance protein 1) amino acid 1466 associated with resistance to sulfadoxine-pyrimethamine treatment
 ---
 

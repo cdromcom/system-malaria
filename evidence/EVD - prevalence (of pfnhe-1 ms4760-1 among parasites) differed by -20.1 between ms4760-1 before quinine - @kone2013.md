@@ -12,7 +12,7 @@ tags:
   - "year/2013"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 9fc92f4f-e0d5-4dbc-87c4-ce992e8527c8
+nodeID: e52c0f3d-5af5-492f-980d-91bcd3c887b0
 title: prevalence (of pfnhe-1 ms4760-1 among parasites) differed by -20.1 between ms4760-1 before quinine treatment and ms4760-1 after therapy (mean difference unstandardized) - @kone2013
 ---
 

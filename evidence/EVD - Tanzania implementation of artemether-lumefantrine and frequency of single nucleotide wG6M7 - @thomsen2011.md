@@ -12,7 +12,7 @@ tags:
   - "year/2011"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 03165017-3ad9-4af8-87ca-fddd6696f92c
+nodeID: 47cef8a6-9be8-46ea-b3a4-3e7fcea70471
 title: Tanzania implementation of artemether-lumefantrine and frequency of single nucleotide polymorphisms in the Pfmdr-1 gene showed an odds ratio of 1.35 - @thomsen2011
 ---
 

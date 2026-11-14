@@ -12,7 +12,7 @@ tags:
   - "year/2017"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 90e193c7-1117-4e73-8dd8-1ae33fc5e6fa
+nodeID: 57dbe72a-88b7-4ef4-85f3-72fb631f28ec
 title: use of sulfadoxine-pyrimethamine used as intermittent preventive and Pfdhfr C59R mutation showed an odds ratio of 4.26 - @cisse2017
 ---
 

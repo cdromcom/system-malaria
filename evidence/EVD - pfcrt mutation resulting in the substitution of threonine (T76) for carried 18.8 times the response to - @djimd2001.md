@@ -12,7 +12,7 @@ tags:
   - "year/2001"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 912ad974-a136-46da-ba9b-9ec6c1f663b4
+nodeID: 51d62449-abf8-488c-885e-2b0507f25984
 title: pfcrt mutation resulting in the substitution of threonine (T76) for carried 18.8 times the response to chloroquine treatment in patients with uncomplicated (odds ratio) - @djimd2001
 ---
 

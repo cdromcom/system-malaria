@@ -12,7 +12,7 @@ tags:
   - "year/2020"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 35f4fbff-10b8-4125-a5d4-8500c441d9bd
+nodeID: 2edc9a1e-f863-495c-a691-0c30c1ef7bc6
 title: genetic loci , and and haplotype SVMNT (codons 72 to 76) showed an odds ratio of 26.7 - @lubis2020
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "year/2011"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: d31bcbff-5d57-422b-ac2f-0b5901aee546
+nodeID: abc17e0a-9e5e-44bd-b73c-7050a3e31f70
 title: no insecticide spray and pfcrt T76 mutation showed an odds ratio of 3.7 - @almekhlafi2011
 ---
 

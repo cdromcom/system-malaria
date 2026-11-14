@@ -8,7 +8,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 3fb17802-df62-4b63-896c-a546fa24f65e
+nodeID: 0bc10e6f-5229-403e-91e6-11d3c13529e7
 title: Carriage of chloroquine-resistant parasites and delay of effective treatment increase the risk of severe malaria in Gambian children
 ---
 

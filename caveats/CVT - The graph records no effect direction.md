@@ -7,7 +7,7 @@ tags:
   - "cvt/api/schema"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 30ac12bd-46f3-4e60-a547-88cf02abf6dd
+nodeID: 6af5a798-36a4-4adb-bf7e-544199c3a5be
 title: The graph records no effect direction
 ---
 

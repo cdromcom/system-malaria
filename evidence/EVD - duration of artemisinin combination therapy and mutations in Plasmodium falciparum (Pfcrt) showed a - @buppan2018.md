@@ -12,7 +12,7 @@ tags:
   - "year/2018"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: fbc73e36-2408-48eb-a99d-0cfb1d6bd50d
+nodeID: 4a29bd25-1a7f-4615-b073-aec2d1f37a29
 title: duration of artemisinin combination therapy and mutations in Plasmodium falciparum (Pfcrt) showed a pearson r of 0.78 - @buppan2018
 ---
 

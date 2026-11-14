@@ -12,7 +12,7 @@ tags:
   - "year/2010"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 5e247bcd-9273-42b4-b411-4e715b2cddcb
+nodeID: a814a481-0d3f-4a9b-a546-664722441b56
 title: K76T in pfcrt differed by 5.1 between New infections (after treatment) and Prior treatment with (mean difference unstandardized) - @som2010
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "year/2013"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 26999ee8-4a5e-407e-b104-ec9251410d1e
+nodeID: e7c60a0f-dd46-43f4-8d78-7a8753949e48
 title: Plasmodium falciparum infections and chloroquine resistance-conferring amino acid codon 76 of the PfCRT showed an odds ratio of 9 - @mharakurwa2013
 ---
 

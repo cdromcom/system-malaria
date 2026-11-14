@@ -11,7 +11,7 @@ tags:
   - "consistency/contested"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 944c69cb-cedb-46a6-a563-91793ca6e0c0
+nodeID: 04dc3abf-9958-4022-be84-6b4c06fd38b0
 title: Mutations in Pfmdr1 are associated with slower clearance of malaria parasites after treatment — but the published evidence is contested
 ---
 

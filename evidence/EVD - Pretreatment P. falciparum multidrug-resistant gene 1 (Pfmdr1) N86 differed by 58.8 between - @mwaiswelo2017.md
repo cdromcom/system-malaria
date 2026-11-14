@@ -12,7 +12,7 @@ tags:
   - "year/2017"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 3d31bd46-28f4-4540-95a5-5796c49db754
+nodeID: 99400782-1859-4272-94d3-aa65cc08b612
 title: Pretreatment P. falciparum multidrug-resistant gene 1 (Pfmdr1) N86 differed by 58.8 between Pretreatment Pfmdr1 N86 prevalence in 2014 and Pretreatment Pfmdr1 N86 prevalence in (mean difference unstandardized) - @mwaiswelo2017
 ---
 

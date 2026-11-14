@@ -7,7 +7,7 @@ tags:
   - "integrity/corrected"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: c52b5323-86f7-419f-a9de-f2874a2223e3
+nodeID: d15ba434-c30e-4ab8-93be-ae455b3d34c4
 title: Chloroquine-resistant Plasmodium falciparum among children in Calabar, south eastern Nigeria
 ---
 

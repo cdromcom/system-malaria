@@ -7,7 +7,7 @@ tags:
   - "cvt/coverage"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: a5e9e9de-93d6-49a0-acfc-7761bdfb98b3
+nodeID: c21baab3-ae19-4db9-83d2-b669795ecae1
 title: Pfkelch13 is the most important marker and the least covered
 ---
 

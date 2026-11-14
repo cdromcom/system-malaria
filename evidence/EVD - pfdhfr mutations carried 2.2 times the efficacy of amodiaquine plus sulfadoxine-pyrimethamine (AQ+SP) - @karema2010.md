@@ -12,7 +12,7 @@ tags:
   - "year/2010"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: a9be2168-2871-45b0-a52e-6ab5cce55fae
+nodeID: b3140727-b2c9-4009-bcd2-15aeebd4f288
 title: pfdhfr mutations carried 2.2 times the efficacy of amodiaquine plus sulfadoxine-pyrimethamine (AQ+SP) (odds ratio) - @karema2010
 ---
 

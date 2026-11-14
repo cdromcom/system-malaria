@@ -12,7 +12,7 @@ tags:
   - "year/2009"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: e5c85f6b-70af-4290-abc4-6dda21cd8ed8
+nodeID: f1bf8547-a67c-4219-a23d-6f5a158a1872
 title: P. falciparum parasite density and proportion of P. falciparum multidrug resistance gene 1 86Y showed an odds ratio of 0.92 - @ursing2009
 ---
 

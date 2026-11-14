@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: d82b2148-3281-456f-bfcd-2ed4ca669ccb
+nodeID: d58a2c1a-b8b5-41fb-ac64-67e5258d0627
 title: Amodiaquine and artemether-lumefantrine select distinct alleles of the Plasmodium falciparum mdr1 gene in Tanzanian children treated for uncomplicated malaria
 ---
 

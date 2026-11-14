@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: f998ff76-92bc-45c8-94d6-f7e306cb028b
+nodeID: 938fd18e-4950-4495-b601-f092aa7a8d4b
 title: Determinants of treatment response to sulfadoxine-pyrimethamine and subsequent transmission potential in falciparum malaria
 ---
 
@@ -39,7 +39,7 @@ title: Determinants of treatment response to sulfadoxine-pyrimethamine and subse
 | **Critical social posts** | None recorded — algorithmic sentiment; for these papers it often reflects alarm at the findings rather than doubt about the work |
 | **PubPeer** | No PubPeer entry (checked by DOI and PubMed ID via the official PubPeer Foundation API; see [[CVT - What the post-publication screen covers and what it cannot]]) |
 | **Open access** | Not determined |
-| **Open data** | Not determined |
+| **Open data** | Cannot tell — not deposited in PMC |
 | **Open code** | None found |
 | **Public accessions** | None found |
 

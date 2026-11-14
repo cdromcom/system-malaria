@@ -12,7 +12,7 @@ tags:
   - "year/2012"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 1f6e4ec2-0306-4150-8297-e61e3cc15fc9
+nodeID: 716c1d9b-c906-4291-ada2-188c8b0ba996
 title: prevalence of 437G and 581G alleles in the pfdhps gene differed by -69.1 between Samples taken between November 2008 and August 2010 (n = 46) and Samples taken between June 2002 and June (mean difference unstandardized) - @amor2012
 ---
 

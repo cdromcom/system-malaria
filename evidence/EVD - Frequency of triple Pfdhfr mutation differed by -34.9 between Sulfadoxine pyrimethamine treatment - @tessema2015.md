@@ -12,7 +12,7 @@ tags:
   - "year/2015"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 89d5691e-0619-41e0-be0e-7c46a420f887
+nodeID: 171d55d3-77f5-4ca9-824c-710de8ef80f8
 title: Frequency of triple Pfdhfr mutation differed by -34.9 between Sulfadoxine pyrimethamine treatment (2007 08) and Sulfadoxine pyrimethamine treatment (2005 (mean difference unstandardized) - @tessema2015
 ---
 

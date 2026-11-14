@@ -7,7 +7,7 @@ tags:
   - "challenge/build-3"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: be260736-04b6-496c-922c-ef9b212706a0
+nodeID: 5857f0a2-33ee-46fb-9dba-9426589ea055
 title: How can we tell when newly published research has changed what is known about a malaria drug-resistance gene?
 ---
 

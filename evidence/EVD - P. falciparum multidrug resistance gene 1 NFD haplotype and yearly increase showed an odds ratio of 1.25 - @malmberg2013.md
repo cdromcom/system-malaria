@@ -12,7 +12,7 @@ tags:
   - "year/2013"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 071953f0-1201-4dd1-ba00-43f132e3ec00
+nodeID: 98242c67-7898-41f3-987f-6cbb454bc14d
 title: P. falciparum multidrug resistance gene 1 NFD haplotype and yearly increase showed an odds ratio of 1.25 - @malmberg2013
 ---
 

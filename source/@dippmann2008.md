@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: e52d23a0-d92d-4451-8e94-a9c626c5fa93
+nodeID: 6ccd5e23-e07b-4125-8e13-d35d33879ef7
 title: pfmdr1 mutations in imported African Plasmodium falciparum isolates
 ---
 

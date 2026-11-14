@@ -13,7 +13,7 @@ tags:
   - "year/2007"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: cabee00f-56ef-47cb-93b1-359665ee281d
+nodeID: ff7c3544-5af1-4931-94b3-9245c5907c96
 title: mutant Plasmodium falciparum chloroquine resistance transporter and treatment failures (among children with uncomplicated malaria) showed a spearman correlation of 0.872 - @duah2007
 ---
 

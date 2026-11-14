@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 98c41a01-2eb6-4d84-99f8-0a3ead4f6458
+nodeID: 2969f2ad-8ab3-405c-b59f-40632d3a597c
 title: Plasmodium falciparum Kelch 13 mutations and treatment response in patients in Hpa-Pun District, Northern Kayin State, Myanmar
 ---
 

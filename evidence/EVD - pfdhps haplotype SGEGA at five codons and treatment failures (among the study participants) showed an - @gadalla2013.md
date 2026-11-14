@@ -13,7 +13,7 @@ tags:
   - "year/2013"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 8147c540-0ea6-435f-9675-0e6cc8664a86
+nodeID: 1fd94df3-93b8-4277-8f50-1ee51ff02158
 title: pfdhps haplotype SGEGA at five codons and treatment failures (among the study participants) showed an odds ratio of 7.3 - @gadalla2013
 ---
 

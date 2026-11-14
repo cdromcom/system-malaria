@@ -11,7 +11,7 @@ tags:
   - "consistency/mostly-consistent"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: ededc068-2443-40a0-8cea-85eb8f7a1a54
+nodeID: 57337667-482a-4acf-9c65-c1e4719417cd
 title: Mutations in Pfmdr1 are positively associated with a range of other malaria measures, though a minority of findings disagree
 ---
 

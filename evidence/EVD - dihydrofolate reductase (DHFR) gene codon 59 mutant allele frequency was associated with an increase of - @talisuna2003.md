@@ -13,7 +13,7 @@ tags:
   - "year/2003"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: ce5f8382-dd7a-4f30-8fa7-ba026038c958
+nodeID: 686dc621-6724-49e3-851a-4aed3cfd4c7b
 title: dihydrofolate reductase (DHFR) gene codon 59 mutant allele frequency was associated with an increase of 0.72 in SP (sulfadoxine-pyrimethamine) treatment failure (pearson r) - @talisuna2003
 ---
 

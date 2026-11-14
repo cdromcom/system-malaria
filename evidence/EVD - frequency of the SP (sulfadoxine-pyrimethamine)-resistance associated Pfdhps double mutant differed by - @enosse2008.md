@@ -12,7 +12,7 @@ tags:
   - "year/2008"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 30f3021e-6d2f-4008-a210-4e5ae4c4628e
+nodeID: 5acddf63-a40e-4f0e-8e6d-38615170e551
 title: frequency of the SP (sulfadoxine-pyrimethamine)-resistance associated Pfdhps double mutant differed by 21 between one year after SP AQ introduction and before SP AQ introduction (mean difference unstandardized) - @enosse2008
 ---
 

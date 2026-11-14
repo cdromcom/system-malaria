@@ -11,7 +11,7 @@ tags:
   - "consistency/consistent"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 73d630cf-72a7-4b19-9acd-87f60a6f50ec
+nodeID: 74e9da95-0c4f-42e8-93d7-be99a0724f60
 title: Mutations in PfDHFR are associated with higher rates of antimalarial treatment failure, consistently across studies
 ---
 

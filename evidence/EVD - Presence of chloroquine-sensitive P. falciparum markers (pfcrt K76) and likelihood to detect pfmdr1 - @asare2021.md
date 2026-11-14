@@ -13,7 +13,7 @@ tags:
   - "year/2021"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 20a82ed1-29ae-4093-a4b8-2efdc467c070
+nodeID: 600b99c6-85b8-4050-a3b5-19f6a2c131e7
 title: Presence of chloroquine-sensitive P. falciparum markers (pfcrt K76) and likelihood to detect pfmdr1 showed an odds ratio of 2.03 - @asare2021
 ---
 

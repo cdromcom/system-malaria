@@ -12,7 +12,7 @@ tags:
   - "year/2022"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: f3243263-760f-41ae-b224-b7ffb1b28e5a
+nodeID: b3bfddf8-aa2a-4e44-930e-bbed405f8e32
 title: Changes in prevalence of pfcrt-K76T mutation between 2019 and 2017 and pfcrt-K76T mutation prevalence showed a mean difference unstandardized of -5.8 - @yobi2022
 ---
 

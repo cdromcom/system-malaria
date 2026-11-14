@@ -12,7 +12,7 @@ tags:
   - "year/2010"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 9a9aaab4-99a1-4191-8893-511b2301a2be
+nodeID: cfc4d585-771a-4bbd-bac9-7d7912b10337
 title: Y184F in pfmdr1 differed by 11.1 between New infections and Prior dihydroartemisinin-piperaquine (mean difference unstandardized) - @som2010
 ---
 

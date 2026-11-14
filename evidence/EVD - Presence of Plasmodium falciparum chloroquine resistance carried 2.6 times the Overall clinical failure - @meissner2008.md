@@ -12,7 +12,7 @@ tags:
   - "year/2008"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 873ee8c4-bff8-4b9e-874c-2adb70b3b301
+nodeID: 07bdd85f-9793-433f-9143-a645c7483f45
 title: Presence of Plasmodium falciparum chloroquine resistance carried 2.6 times the Overall clinical failure rates (odds ratio) - @meissner2008
 ---
 

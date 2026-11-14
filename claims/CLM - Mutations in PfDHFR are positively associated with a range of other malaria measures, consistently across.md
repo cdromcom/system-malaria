@@ -11,7 +11,7 @@ tags:
   - "consistency/consistent"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 6788d761-a2f8-446b-ada6-e55be1088138
+nodeID: 2e2ecf3f-bf63-45d9-bfbd-4b2e9d72033e
 title: Mutations in PfDHFR are positively associated with a range of other malaria measures, consistently across studies
 ---
 

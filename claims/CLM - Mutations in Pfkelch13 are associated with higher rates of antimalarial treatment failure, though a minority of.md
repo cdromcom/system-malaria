@@ -11,7 +11,7 @@ tags:
   - "consistency/mostly-consistent"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: da4da17a-400c-466a-bd42-078ffbd69664
+nodeID: ad5d77a3-6dbc-44fc-a9bc-04eb54c435e9
 title: Mutations in Pfkelch13 are associated with higher rates of antimalarial treatment failure, though a minority of findings disagree
 ---
 

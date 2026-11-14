@@ -13,7 +13,7 @@ tags:
   - "year/2007"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 1739b3e8-305f-4778-9052-e0b0cac46559
+nodeID: 3b8cdfbb-7d1e-4d9f-87e0-13ea8cb8e366
 title: clearance of parasites with the pfcrt-76T allele differed by 10.1 between children living in villages in which insecticide-treated curtains and children living in unprotected villages (mean difference unstandardized) - @diallo2007
 ---
 

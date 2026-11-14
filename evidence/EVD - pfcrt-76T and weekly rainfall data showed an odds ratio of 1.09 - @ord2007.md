@@ -12,7 +12,7 @@ tags:
   - "year/2007"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 69269943-a407-43e6-83fb-18cd4a0ad968
+nodeID: c7fda9d6-3b7c-4b5b-88cd-a1f4e63f50c6
 title: pfcrt-76T and weekly rainfall data showed an odds ratio of 1.09 - @ord2007
 ---
 

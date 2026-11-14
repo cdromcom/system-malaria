@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 8194eb0f-2193-4130-9dfe-f067f49288c8
+nodeID: 2818659b-92ff-40e4-8f9b-d1448fb0bbfc
 title: Frequencies of molecular markers of drug resistance in the context of two different Seasonal Malaria Chemoprevention (SMC) treatment regimens in the Koulikoro health
 ---
 

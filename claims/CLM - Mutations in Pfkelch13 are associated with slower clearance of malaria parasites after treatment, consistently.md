@@ -11,7 +11,7 @@ tags:
   - "consistency/consistent"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 7cdf545c-a7b8-4ac8-9234-a6641a59e832
+nodeID: 9d84346c-8760-4e51-a48c-5709cb1f1865
 title: Mutations in Pfkelch13 are associated with slower clearance of malaria parasites after treatment, consistently across studies
 ---
 

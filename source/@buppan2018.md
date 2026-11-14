@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 6bab4c2b-1eb9-4c92-aee6-0165d89bcb71
+nodeID: 81dfca14-5049-47ba-9559-cdbf7a3aebb0
 title: Multiple Novel Mutations in Plasmodium falciparum Chloroquine Resistance Transporter Gene during Implementation of Artemisinin Combination Therapy in Thailand
 ---
 

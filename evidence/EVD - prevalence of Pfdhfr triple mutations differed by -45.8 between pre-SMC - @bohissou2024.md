@@ -12,7 +12,7 @@ tags:
   - "year/2024"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: ceaade3c-2418-49c3-88a2-446eec7b42a8
+nodeID: a001c122-8c2b-48d0-89ea-6d58a2de2331
 title: prevalence of Pfdhfr triple mutations differed by -45.8 between pre-SMC (seasonal malaria chemoprevention) and post-SMC (mean difference unstandardized) - @bohissou2024
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "year/2021"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 003eeed2-fc4f-49b5-ab4a-e81a48007317
+nodeID: 52c2a9ae-2bce-435b-b704-9082d8b78595
 title: Prevalence of Pfcrt K76 wild type allele differed by 26.2 between Mfou and Tibati (mean difference unstandardized) - @tuedom2021
 ---
 

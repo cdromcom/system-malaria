@@ -8,7 +8,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: bddad91b-0c6a-4362-b7d4-9578c15ef1ff
+nodeID: 02178230-02a5-4716-b164-989b369a5d67
 title: No seasonal accumulation of resistant P. falciparum when high-dose chloroquine is used
 ---
 

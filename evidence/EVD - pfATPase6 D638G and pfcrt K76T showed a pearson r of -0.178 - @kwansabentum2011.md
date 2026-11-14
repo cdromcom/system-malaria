@@ -12,7 +12,7 @@ tags:
   - "year/2011"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 317fdbe6-fad2-4cea-808d-cb7251c3dc6d
+nodeID: 16fcbb55-9e0d-4e4a-83c0-d1147bdc3e9e
 title: pfATPase6 D638G and pfcrt K76T showed a pearson r of -0.178 - @kwansabentum2011
 ---
 

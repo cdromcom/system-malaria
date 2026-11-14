@@ -7,7 +7,7 @@ tags:
   - "cvt/graph/data-model"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 32964eb7-49be-4631-9648-1ebfd112eb1f
+nodeID: 90aefacf-6ccd-4dbc-ba5f-d08b48abdc20
 title: Variables are one-per-paper phrasings not canonical entities
 ---
 

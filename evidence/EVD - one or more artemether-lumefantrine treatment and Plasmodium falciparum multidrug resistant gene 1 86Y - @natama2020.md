@@ -12,7 +12,7 @@ tags:
   - "year/2020"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 5315b292-4c1a-40a9-9cfd-8d3c2d9fba25
+nodeID: 0a19b7de-6647-4122-b976-255b7f98002e
 title: one or more artemether-lumefantrine treatment and Plasmodium falciparum multidrug resistant gene 1 86Y mutant allele showed an adjusted odds ratio of 0.25 - @natama2020
 ---
 

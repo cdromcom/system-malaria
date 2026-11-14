@@ -12,7 +12,7 @@ tags:
   - "year/2015"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 909de3cf-1d94-4353-9809-4e3e06a4a8a7
+nodeID: 7386e4b8-e3b5-4de1-ac17-4768cee1277c
 title: pfmdr1 86+184 NF frequency differed by 27 between 2003 (change in treatment regimen) and Pre-2007 (no change in treatment regimen (mean difference unstandardized) - @jovel2015
 ---
 

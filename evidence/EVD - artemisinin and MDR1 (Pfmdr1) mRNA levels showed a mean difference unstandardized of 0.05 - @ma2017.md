@@ -12,7 +12,7 @@ tags:
   - "year/2017"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: f57236d0-2559-45b6-85c8-fc0a47e08cc7
+nodeID: 8bfe1043-ccf4-4502-9e89-e0dfac4e8a4b
 title: artemisinin and MDR1 (Pfmdr1) mRNA levels showed a mean difference unstandardized of 0.05 - @ma2017
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "year/2017"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: ac87cea8-3eee-46f6-a17b-d800979ae86e
+nodeID: cf57bc40-7e9d-4230-b169-12fc4bb6544f
 title: Prevalence of mutations at pfmdr1 Y184F differed by 34.7 between Dihydroartemisinin-piperaquine and Sulfadoxine-pyrimethamine (mean difference unstandardized) - @conrad2017
 ---
 

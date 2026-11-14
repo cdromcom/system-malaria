@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 1ef6a42f-517a-47c3-bde3-2f994d8bc3a6
+nodeID: 06c52e86-8409-460c-84a6-a16ebce490a7
 title: Children in Burkina Faso who are protected by insecticide-treated materials are able to clear drug-resistant parasites better than unprotected children
 ---
 

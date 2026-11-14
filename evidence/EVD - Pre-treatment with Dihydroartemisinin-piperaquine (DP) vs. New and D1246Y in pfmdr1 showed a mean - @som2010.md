@@ -12,7 +12,7 @@ tags:
   - "year/2010"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 524ff047-fa44-4320-900c-97e2ecaf370b
+nodeID: c919a119-829c-443f-ba7b-e670bfe64a67
 title: Pre-treatment with Dihydroartemisinin-piperaquine (DP) vs. New and D1246Y in pfmdr1 showed a mean difference unstandardized of -4.5 - @som2010
 ---
 

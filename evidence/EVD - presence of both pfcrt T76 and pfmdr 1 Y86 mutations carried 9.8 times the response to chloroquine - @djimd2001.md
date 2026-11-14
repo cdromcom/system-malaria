@@ -13,7 +13,7 @@ tags:
   - "year/2001"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 4dbc9c4a-067e-4030-af1c-b62c1fe2f417
+nodeID: f5b90441-5302-4ee0-8432-1ce4228048b5
 title: presence of both pfcrt T76 and pfmdr 1 Y86 mutations carried 9.8 times the response to chloroquine treatment in patients with uncomplicated (odds ratio) - @djimd2001
 ---
 

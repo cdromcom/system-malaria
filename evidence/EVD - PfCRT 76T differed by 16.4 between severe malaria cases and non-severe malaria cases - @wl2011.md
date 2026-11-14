@@ -12,7 +12,7 @@ tags:
   - "year/2011"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 9be78e22-8a46-4172-8649-89535824af4d
+nodeID: 0912248f-2c24-406a-a449-c902bd77c1d9
 title: PfCRT 76T differed by 16.4 between severe malaria cases and non-severe malaria cases (mean difference unstandardized) - @wl2011
 ---
 

@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 62578a34-4a62-42d7-bd3a-b0e1a7a557f1
+nodeID: c9cbd015-b144-42c4-9396-6dc5abeb586a
 title: Chloroquine-resistant Plasmodium falciparum infections among UK travellers returning with malaria after chloroquine prophylaxis
 ---
 

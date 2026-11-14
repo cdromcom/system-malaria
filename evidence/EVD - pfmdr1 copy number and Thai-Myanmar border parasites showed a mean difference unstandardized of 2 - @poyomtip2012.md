@@ -12,7 +12,7 @@ tags:
   - "year/2012"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 455a6a59-d493-4447-b9f6-30cca9516b24
+nodeID: 01868737-40d7-432a-96cc-9025b13822f7
 title: pfmdr1 copy number and Thai-Myanmar border parasites showed a mean difference unstandardized of 2 - @poyomtip2012
 ---
 

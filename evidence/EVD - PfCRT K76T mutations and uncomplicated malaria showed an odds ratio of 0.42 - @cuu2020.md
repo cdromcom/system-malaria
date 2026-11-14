@@ -12,7 +12,7 @@ tags:
   - "year/2020"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 43ab5bac-b41e-4d59-8c53-065b23db0901
+nodeID: 84a93d2c-424f-41cb-9a8b-49be19e0f1ae
 title: PfCRT K76T mutations and uncomplicated malaria showed an odds ratio of 0.42 - @cuu2020
 ---
 

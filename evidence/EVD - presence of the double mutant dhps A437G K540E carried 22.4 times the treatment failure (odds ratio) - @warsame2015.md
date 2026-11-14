@@ -13,7 +13,7 @@ tags:
   - "year/2015"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 49a5ccf2-f9b5-4275-b0ac-f1e1a5fa5e2d
+nodeID: c899c0ea-5932-478d-9779-9ad02a32eecf
 title: presence of the double mutant dhps A437G K540E carried 22.4 times the treatment failure (odds ratio) - @warsame2015
 ---
 

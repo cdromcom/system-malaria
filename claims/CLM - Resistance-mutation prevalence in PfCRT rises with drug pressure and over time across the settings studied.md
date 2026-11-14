@@ -11,7 +11,7 @@ tags:
   - "consistency/mostly-consistent"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: e7b4900f-6010-4391-a7a2-4802cf31817d
+nodeID: b922f038-1822-4368-8ce1-a0f855756460
 title: Resistance-mutation prevalence in PfCRT rises with drug pressure and over time across the settings studied, though a minority of findings disagree
 ---
 

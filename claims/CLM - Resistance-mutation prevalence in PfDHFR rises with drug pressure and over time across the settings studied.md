@@ -11,7 +11,7 @@ tags:
   - "consistency/mostly-consistent"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: fed7eb31-0de5-4429-8ba6-47ecbe074d91
+nodeID: 1818181f-1828-42d2-b685-dedfe65800ce
 title: Resistance-mutation prevalence in PfDHFR rises with drug pressure and over time across the settings studied, though a minority of findings disagree
 ---
 

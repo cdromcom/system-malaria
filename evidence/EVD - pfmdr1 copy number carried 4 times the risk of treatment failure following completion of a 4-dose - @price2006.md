@@ -12,7 +12,7 @@ tags:
   - "year/2006"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: e28f6ab4-2201-45fd-a6b7-983171e383e9
+nodeID: 5aa0b7d0-73aa-44d7-a342-49254fe28a1a
 title: pfmdr1 copy number carried 4 times the risk of treatment failure following completion of a 4-dose regimen (hazard ratio) - @price2006
 ---
 

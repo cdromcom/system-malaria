@@ -12,7 +12,7 @@ tags:
   - "year/2007"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 286f597a-2304-468a-a17e-0ed6c9ba1df7
+nodeID: 5a580f71-b616-46e3-96b9-4bf6d356cc36
 title: documented use of chloroquine proguanil prophylaxis and parasites with resistance-associated alleles of pfcrt showed an odds ratio of 3.85 - @sutherland2007
 ---
 

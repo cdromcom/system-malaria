@@ -12,7 +12,7 @@ tags:
   - "year/2021"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: e46c12fb-0a80-42ea-a3a1-98fff7e4919e
+nodeID: 08828a59-ddfa-4e5a-ac7f-2efac35f6218
 title: prevalence of wild-type multidrug resistance protein 1 differed by 39 between 2016-2019 prevalence of wild-type multidrug resistance protein 1 and pre-2013 prevalence of wild-type (mean difference unstandardized) - @tumwebaze2021
 ---
 

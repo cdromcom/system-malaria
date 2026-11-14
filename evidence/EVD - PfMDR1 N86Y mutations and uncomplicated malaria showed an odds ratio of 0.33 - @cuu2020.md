@@ -12,7 +12,7 @@ tags:
   - "year/2020"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 796e40bc-957a-4bfd-9567-e903d2f06408
+nodeID: 32b497bd-375a-4642-a7ff-477eca2ec4a3
 title: PfMDR1 N86Y mutations and uncomplicated malaria showed an odds ratio of 0.33 - @cuu2020
 ---
 

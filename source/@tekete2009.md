@@ -8,7 +8,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 5c917831-2f15-44ce-bed9-c9ff0bc61dac
+nodeID: 6aebe70b-cf4a-4cee-a741-689ad6a4a5b7
 title: Efficacy of chloroquine, amodiaquine and sulphadoxine-pyrimethamine for the treatment of uncomplicated falciparum malaria revisiting molecular markers in an area of
 ---
 

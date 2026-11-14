@@ -13,7 +13,7 @@ tags:
   - "year/2009"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 14c0e806-f98b-4678-824f-fc2f09f1e78a
+nodeID: 9e8a36cb-3826-4223-b821-0a09b736d68d
 title: CQ (chloroquine) treatment and pfcrt 76T+pfmdr-1 86Y mutations showed an odds ratio of 3.16 - @tekete2009
 ---
 

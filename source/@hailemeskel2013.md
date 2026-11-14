@@ -8,7 +8,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: af60d71c-5e2c-47e7-82d7-1898cc4f05d5
+nodeID: be6ca969-1c5f-4b0f-86a6-f9693d762c8b
 title: Prevalence of sulfadoxine-pyrimethamine resistance-associated mutations in dhfr and dhps genes of Plasmodium falciparum three years after SP withdrawal in Bahir Dar
 ---
 

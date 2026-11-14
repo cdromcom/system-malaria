@@ -12,7 +12,7 @@ tags:
   - "year/2011"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 1fee6e7f-233f-4309-9cbc-086920bd5878
+nodeID: 94fdc3fe-2fe8-4663-aa03-678f68f621d5
 title: low household income and pfcrt T76 mutation showed an odds ratio of 5 - @almekhlafi2011
 ---
 

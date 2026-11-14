@@ -7,7 +7,7 @@ tags:
   - "cvt/api/schema"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 6514af52-730d-4ccb-9218-4eec09deb528
+nodeID: f5492d88-79f9-4dfe-8a2e-98999164bf2c
 title: List endpoints omit p-values and confidence intervals
 ---
 

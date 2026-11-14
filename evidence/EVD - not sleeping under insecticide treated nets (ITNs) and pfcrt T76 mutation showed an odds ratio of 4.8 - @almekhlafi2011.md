@@ -12,7 +12,7 @@ tags:
   - "year/2011"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: e1b18c01-d345-44c3-a82f-4b8291ed73c3
+nodeID: d272ffed-d941-47a1-85e7-b0aa87172bac
 title: not sleeping under insecticide treated nets (ITNs) and pfcrt T76 mutation showed an odds ratio of 4.8 - @almekhlafi2011
 ---
 

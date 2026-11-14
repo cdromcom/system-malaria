@@ -12,7 +12,7 @@ tags:
   - "year/2020"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 78b61b5d-078c-4edb-90b4-dc6be95c824d
+nodeID: adf14347-bb89-4197-98fd-0e82e0e28159
 title: PfMDR1 D1246Y mutations and uncomplicated malaria showed an odds ratio of 1.83 - @cuu2020
 ---
 

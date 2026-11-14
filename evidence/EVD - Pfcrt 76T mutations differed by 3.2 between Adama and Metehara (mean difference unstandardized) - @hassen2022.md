@@ -12,7 +12,7 @@ tags:
   - "year/2022"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 6a4287f0-97b4-4a37-8c46-c3748003cc56
+nodeID: 67e5e418-07be-426f-bdc9-9a4a8a300599
 title: Pfcrt 76T mutations differed by 3.2 between Adama and Metehara (mean difference unstandardized) - @hassen2022
 ---
 

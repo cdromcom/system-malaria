@@ -7,7 +7,7 @@ tags:
   - "coverage"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 48fa04e3-51f3-42f8-aced-21267677820c
+nodeID: 41ffd2b1-dc09-4096-833b-d5502dc3d993
 title: Which malaria drug-resistance genes does the System Public Graph actually hold evidence on, and how much?
 ---
 

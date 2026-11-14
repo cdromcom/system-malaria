@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 3ac59c93-5d79-4852-bbab-fd046c5de3cf
+nodeID: 87de6d5d-276a-4c71-afe5-4a67e29fdafa
 title: Role of the pfcrt codon 76 mutation as a molecular marker for population-based surveillance of chloroquine (CQ)-resistant Plasmodium falciparum malaria in Ugandan
 ---
 

@@ -8,7 +8,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: b9007920-33d1-4852-a911-60d2c20a060b
+nodeID: 6b7a4e81-de91-43c3-a5ec-8dc239b69cf7
 title: The emergence of chloroquine-sensitive Plasmodium falciparum is influenced by selected communities in some parts of the Central Region of Ghana
 ---
 

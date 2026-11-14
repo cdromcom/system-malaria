@@ -12,7 +12,7 @@ tags:
   - "year/1996"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: c21e3b23-14b2-4c86-af6c-761d837b1b4c
+nodeID: fb375c1b-6f0d-4724-aac1-bd1c46688b4e
 title: Presence of gametocytes in the thick smear and chloroquine resistance showed an odds ratio of 3 - @hess1996
 ---
 

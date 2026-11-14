@@ -12,7 +12,7 @@ tags:
   - "year/2014"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: d4e70a75-707c-42a2-b5cb-d34a440b4def
+nodeID: 46f4584e-5156-4aff-8709-23f605b7c5fa
 title: P. vivax mdr-1 (Pfmdr1) copies and geographic location showed a mean difference unstandardized of 0.02 - @khim2014
 ---
 

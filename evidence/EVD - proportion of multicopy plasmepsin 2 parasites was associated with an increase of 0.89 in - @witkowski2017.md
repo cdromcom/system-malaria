@@ -12,7 +12,7 @@ tags:
   - "year/2017"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: e0466cec-c584-44a9-b796-fdb32e5ee427
+nodeID: b9396ef4-3324-42d7-bf6c-130946d743c0
 title: proportion of multicopy plasmepsin 2 parasites was associated with an increase of 0.89 in dihydroartemisinin-piperaquine treatment failure rates (spearman correlation) - @witkowski2017
 ---
 

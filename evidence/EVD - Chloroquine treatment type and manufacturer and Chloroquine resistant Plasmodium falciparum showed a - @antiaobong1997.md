@@ -12,7 +12,7 @@ tags:
   - "year/1997"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 427e929f-a36d-4a65-ad4e-69082e7c1757
+nodeID: d2114af1-d507-418c-8ebd-b1b880e49f42
 title: Chloroquine treatment type and manufacturer and Chloroquine resistant Plasmodium falciparum showed a mean difference unstandardized of -18.8 - @antiaobong1997
 ---
 

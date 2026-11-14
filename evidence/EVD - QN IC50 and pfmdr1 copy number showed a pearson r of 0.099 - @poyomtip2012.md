@@ -12,7 +12,7 @@ tags:
   - "year/2012"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: a2c5cc63-4b4c-43eb-9891-5d40ac6ba992
+nodeID: 857d5628-f940-4abb-bb82-8e9e276a2233
 title: QN IC50 and pfmdr1 copy number showed a pearson r of 0.099 - @poyomtip2012
 ---
 

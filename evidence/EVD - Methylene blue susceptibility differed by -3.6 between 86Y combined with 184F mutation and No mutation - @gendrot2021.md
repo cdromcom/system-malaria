@@ -12,7 +12,7 @@ tags:
   - "year/2021"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 33805d2c-972f-46b6-b888-57ff2934277e
+nodeID: 4ff74485-e873-4404-b5a0-b8dbff313fbe
 title: Methylene blue susceptibility differed by -3.6 between 86Y combined with 184F mutation and No mutation (mean difference unstandardized) - @gendrot2021
 ---
 

@@ -7,7 +7,7 @@ tags:
   - "integrity/clean"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 87b695b0-a854-49fd-b1b5-02e0383b82a9
+nodeID: 4fcf79bf-8d77-45c4-a7e0-2b68887ca778
 title: Marked differences in the prevalence of chloroquine resistance between urban and rural communities in Burkina Faso
 ---
 

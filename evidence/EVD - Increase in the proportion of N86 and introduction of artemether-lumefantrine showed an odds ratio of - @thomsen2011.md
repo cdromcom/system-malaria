@@ -12,7 +12,7 @@ tags:
   - "year/2011"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 3dd16557-0642-48a0-b681-9eac64ac1080
+nodeID: daac047f-6791-4e20-b2fc-3a1bb089a321
 title: Increase in the proportion of N86 and introduction of artemether-lumefantrine showed an odds ratio of 1.35 - @thomsen2011
 ---
 

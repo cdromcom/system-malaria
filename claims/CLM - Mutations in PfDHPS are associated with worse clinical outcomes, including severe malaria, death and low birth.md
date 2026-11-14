@@ -11,7 +11,7 @@ tags:
   - "consistency/contested"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: ab5f2e87-58e2-4c9b-a72b-7e15f18cb10a
+nodeID: a184cd8a-6daa-4877-98c5-5f12015a72e6
 title: Mutations in PfDHPS are associated with worse clinical outcomes, including severe malaria, death and low birth weight — but the published evidence is contested
 ---
 

@@ -13,7 +13,7 @@ tags:
   - "year/2008"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 37ed20b5-03cd-4d80-a418-acd74151f688
+nodeID: 6cec7117-ae18-42c1-a595-0a1229ce7946
 title: combined presence of the quadruple mutant pvdhfr 57L+58R+61M+117T carried 8.56 times the treatment failure (among the studied patients) (odds ratio) - @marfurt2008b
 ---
 

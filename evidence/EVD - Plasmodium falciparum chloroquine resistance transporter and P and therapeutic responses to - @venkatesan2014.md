@@ -13,7 +13,7 @@ tags:
   - "year/2014"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 71df51a8-1db2-4aed-b23c-03947b8ecae3
+nodeID: 0602f872-ec44-4a70-8cdd-11b27ef29d20
 title: Plasmodium falciparum chloroquine resistance transporter and P and therapeutic responses to artesunate-amodiaquine and showed an adjusted hazard ratio of 4.74 - @venkatesan2014
 ---
 

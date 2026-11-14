@@ -7,7 +7,7 @@ tags:
   - "cvt/graph/grounding"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 51c29f60-282c-491b-ab0b-1a7e409f2be7
+nodeID: e64d0027-9477-4645-ba36-4835e8fc4f6f
 title: Concept grounding is coarse and sometimes wrong
 ---
 

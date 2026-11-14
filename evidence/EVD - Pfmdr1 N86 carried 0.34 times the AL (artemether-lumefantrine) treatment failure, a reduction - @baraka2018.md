@@ -12,7 +12,7 @@ tags:
   - "year/2018"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: ed1a65b1-ed78-403c-94ce-92f1fed9a74e
+nodeID: f7702ccf-f517-4080-a2ae-bd5ad3586f51
 title: Pfmdr1 N86 carried 0.34 times the AL (artemether-lumefantrine) treatment failure, a reduction (relative risk ratio) - @baraka2018
 ---
 

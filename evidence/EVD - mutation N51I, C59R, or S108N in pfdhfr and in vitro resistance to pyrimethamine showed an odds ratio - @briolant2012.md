@@ -12,7 +12,7 @@ tags:
   - "year/2012"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 3a2d1917-3abf-4317-9cc7-896448fa86bf
+nodeID: 0bc07d3d-eb5a-46c2-a491-46b1d609f571
 title: mutation N51I, C59R, or S108N in pfdhfr and in vitro resistance to pyrimethamine showed an odds ratio of 42.3 - @briolant2012
 ---
 

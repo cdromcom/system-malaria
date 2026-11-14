@@ -12,7 +12,7 @@ tags:
   - "year/2024"
 created: 2026-11-14
 updated: 2026-11-14
-nodeID: 807b7fd1-fcf9-4cce-92d2-51a3715048b2
+nodeID: 42151864-e818-4f78-98d5-1879b074bd5d
 title: Seasonal Malaria Chemoprevention with amodiaquine and prevalence of Pfdhps A437G mutation showed a mean difference unstandardized of -20.8 - @bohissou2024
 ---
 
