@@ -21,27 +21,27 @@ resistance actually gone, according to everything researchers have published?
 
 We read an open database[^graph] holding roughly six million research findings and pulled out
 every one concerning the seven parasite genes linked to drug resistance. That gave **222 findings
-from 118 separate studies, published between 1987 and 2025**. We then checked each paper for signs of
-unreliability, and whether its data could be obtained by anyone wanting to repeat the work.
+from 118 separate studies, published between 1987 and 2025**. We then checked each paper for signs
+of unreliability, and whether its data could be obtained by anyone wanting to repeat the work.
 
 ## What we found
 
-**Resistance genes do predict treatment failure.** Of 32 findings linking a resistance gene to
-whether treatment worked, **30 pointed the same way (94%)**, meaning almost every study agreed
+**Resistance genes do predict treatment failure.** Of 30 findings linking a resistance gene to
+whether treatment worked, **28 pointed the same way (93%)**, meaning almost every study agreed
 that patients carrying these genes were more likely to see treatment fail. Agreement this strong across four
 genes studied independently is the most dependable result here. Individual effects
 were large: one study found patients with a particular mutation had **24.7 times the odds**[^or]
 of treatment failure, with a range of 8.2 to 74.2[^ci] (so the true figure is uncertain, but
 clearly far above "no effect").
 
-**Resistance rises and falls with drug use.** Of 130 findings on how common these genes are,
-**96 reported them becoming more common and 32 less common (75% agreement)**. Both directions are
+**Resistance rises and falls with drug use.** Of 110 findings on how common these genes are,
+**82 reported them becoming more common and 26 less common (76% agreement)**. Both directions are
 expected. Resistance spreads while a drug is in heavy use and recedes after health programmes
 switch to a different drug. A falling figure therefore signals a policy change, and should not be read as a
 retreating parasite.
 
-**No clear link to severe illness.** Of 13 findings on whether these genes make patients sicker,
-**6 pointed one way and 7 the other (54%, close to a coin flip)**. The evidence does not support
+**No clear link to severe illness.** Of 11 findings on whether these genes make patients sicker,
+**6 pointed one way and 5 the other (55%, close to a coin flip)**. The evidence does not support
 claims in either direction.
 
 **The most urgent gene is the least studied.** One gene, Pfkelch13, governs resistance to

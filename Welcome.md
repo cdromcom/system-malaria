@@ -153,7 +153,7 @@ Every evidence note states which sources it drew on, and the split across the va
 
 ### Were the source papers sound?
 
-All 117 source papers were screened on 14 November 2026 against **PubMed's CommentsCorrections
+All 118 source papers were screened on 14 November 2026 against **PubMed's CommentsCorrections
 records** and **Crossref's update metadata**, which is where retractions, errata and expressions
 of concern are formally recorded, and which now carries the Retraction Watch data Crossref hosts.
 
@@ -163,7 +163,7 @@ artemisinin-resistance papers in the set. Every source note states its result, a
 a corrected paper carry a warning, because System extracted the statistic from the original
 article and the graph records nothing about corrections.
 
-**PubPeer was checked, and found nothing.** All 117 papers were queried through the API
+**PubPeer was checked, and found nothing.** All 118 papers were queried through the API
 published in The PubPeer Foundation's own browser extension, twice — once by DOI and once by
 PubMed ID. **Not one has a PubPeer entry.** That zero was verified rather than assumed: a known
 heavily-commented retraction placed inside a full 20-DOI batch alongside 19 of our papers came
